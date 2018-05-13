@@ -1,0 +1,189 @@
+Word;Coefficient
+c__;-2,4849066497880004
+c_use c_best;-1,3862943611198906
+c__ c__;-2,4849066497880004
+c_unlik c_bitcoin;-1,3862943611198906
+c__ c__ c_pic;-2,4849066497880004
+c_total c_invest;-1,3862943611198906
+c__ c__ c_pic c_twitter;-2,4849066497880004
+c_take c_hold;-1,3862943611198906
+c__ c_also;-2,4849066497880004
+c_shop c_onlin;-1,3862943611198906
+c__ c_also c_come;-2,4849066497880004
+c_sector c_particular;-1,3862943611198906
+c__ c_also c_come c_boon;-2,4849066497880004
+c_photo c_http;-1,3862943611198906
+c__ c_among;-2,4849066497880004
+c_money c_also;-1,3862943611198906
+c__ c_among c_australia;-2,4849066497880004
+c_make c_process;-1,3862943611198906
+c__ c_among c_australia c_japan;-2,4849066497880004
+c_invest c_research;-1,3862943611198906
+Word;Coefficient
+c__;-2,6390573296152584
+t_becom;-1,5404450409471486
+c__ c__;-2,6390573296152584
+c_would c_say;-1,5404450409471486
+c__ c__ c_mir_btc;-2,6390573296152584
+c_technolog c_said;-1,5404450409471486
+c__ c__ c_mir_btc c_decemb;-2,6390573296152584
+c_technolog c_fintech;-1,5404450409471486
+c__ c_address;-2,6390573296152584
+c_sure c_everyth;-1,5404450409471486
+c__ c_address c_said;-2,6390573296152584
+c_still c_earli;-1,5404450409471486
+c__ c_address c_said c_dead;-2,6390573296152584
+c_side c_side;-1,5404450409471486
+c__ c_also;-2,6390573296152584
+c_secur c_bitcoin;-1,5404450409471486
+c__ c_also c_come;-2,6390573296152584
+c_provid c_financi c_servic;-1,5404450409471486
+c__ c_also c_come c_boon;-2,6390573296152584
+c_provid c_financi;-1,5404450409471486
+Word;Coefficient
+c__;-2,70805020110221
+c_legal c_regulatori;-1,3217558399823195
+c__ c_adrien;-2,70805020110221
+c_yet c_also;-1,6094379124341003
+c__ c_adrien c_guinet;-2,70805020110221
+c_within c_two;-1,6094379124341003
+c__ c_adrien c_guinet c_matthieu;-2,70805020110221
+c_victori;-1,6094379124341003
+c__ c_aggreg;-2,70805020110221
+c_use c_run;-1,6094379124341003
+c__ c_aggreg c_aggreg;-2,70805020110221
+c_use c_distribut;-1,6094379124341003
+c__ c_aggreg c_aggreg c_economi;-2,70805020110221
+c_us c_us;-1,6094379124341003
+c__ c_aspx;-2,70805020110221
+c_stall;-1,6094379124341003
+c__ c_aspx c_eastern;-2,70805020110221
+c_said c_busi;-1,6094379124341003
+c__ c_aspx c_eastern c_cfa;-2,70805020110221
+c_purs;-1,6094379124341003
+Word;Coefficient
+c__;-2,302585092994046
+t_introduc;-1,2039728043259361
+c__ c__;-2,302585092994046
+c_system c_call;-1,2039728043259361
+c__ c__ c_mir_btc;-2,302585092994046
+c_sure c_everyth;-1,2039728043259361
+c__ c__ c_mir_btc c_decemb;-2,302585092994046
+c_sphere;-1,2039728043259361
+c__ c_adrien;-2,302585092994046
+c_side c_side;-1,2039728043259361
+c__ c_adrien c_guinet;-2,302585092994046
+c_republ;-1,2039728043259361
+c__ c_adrien c_guinet c_matthieu;-2,302585092994046
+c_note c_circul;-1,2039728043259361
+c__ c_aggreg;-2,302585092994046
+c_make c_sure c_everyth;-1,2039728043259361
+c__ c_aggreg c_aggreg;-2,302585092994046
+c_make c_one;-1,2039728043259361
+c__ c_aggreg c_aggreg c_economi;-2,302585092994046
+c_like c_use;-1,2039728043259361
+Word;Coefficient
+c__;-2,772588722239781
+c_photo c_http;-1,1631508098056809
+c__ c_address;-2,772588722239781
+c_still c_earli;-1,3862943611198906
+c__ c_address c_said;-2,772588722239781
+c_reap;-1,3862943611198906
+c__ c_address c_said c_dead;-2,772588722239781
+c_provid c_financi c_servic;-1,3862943611198906
+c__ c_also;-2,772588722239781
+c_provid c_financi;-1,3862943611198906
+c__ c_also c_come;-2,772588722239781
+c_latin c_america;-1,3862943611198906
+c__ c_also c_come c_boon;-2,772588722239781
+c_latin;-1,3862943611198906
+c__ c_although;-2,772588722239781
+c_com c_media;-1,3862943611198906
+c__ c_although c_play;-2,772588722239781
+c_co c_director;-1,3862943611198906
+c__ c_although c_play c_role;-2,772588722239781
+c_base c_financi;-1,3862943611198906
+Word;Coefficient
+c__;-2,70805020110221
+c_custodi;-1,3217558399823195
+c__ c__;-2,70805020110221
+c_bitcoin c_trade c_platform;-1,3217558399823195
+c__ c__ c_mir_btc;-2,70805020110221
+t_threat t_grow t_bitcoin;-1,6094379124341003
+c__ c__ c_mir_btc c_decemb;-2,70805020110221
+t_threat t_grow;-1,6094379124341003
+c__ c_also;-2,70805020110221
+t_threat;-1,6094379124341003
+c__ c_also c_come;-2,70805020110221
+t_month;-1,6094379124341003
+c__ c_also c_come c_boon;-2,70805020110221
+t_grow t_bitcoin;-1,6094379124341003
+c__ c_anim;-2,70805020110221
+t_grow;-1,6094379124341003
+c__ c_anim c_fill;-2,70805020110221
+t_cyber t_threat t_grow t_bitcoin;-1,6094379124341003
+c__ c_anim c_fill c_role;-2,70805020110221
+t_cyber t_threat t_grow;-1,6094379124341003
+Word;Coefficient
+c__;-2,6390573296152584
+t_becom;-1,5404450409471486
+c__ c__;-2,6390573296152584
+c_manhattan;-1,5404450409471486
+c__ c__ c_mir_btc;-2,6390573296152584
+c_make c_process;-1,5404450409471486
+c__ c__ c_mir_btc c_decemb;-2,6390573296152584
+c_logo c_http;-1,5404450409471486
+c__ c__ c_pic;-2,6390573296152584
+c_logo;-1,5404450409471486
+c__ c__ c_pic c_twitter;-2,6390573296152584
+c_launch c_distribut;-1,5404450409471486
+c__ c_aggreg;-2,6390573296152584
+c_fb;-1,5404450409471486
+c__ c_aggreg c_aggreg;-2,6390573296152584
+c_dave;-1,5404450409471486
+c__ c_aggreg c_aggreg c_economi;-2,6390573296152584
+c_cto;-1,5404450409471486
+c__ c_also;-2,6390573296152584
+c_close c_half;-1,5404450409471486
+Word;Coefficient
+c__;-2,3978952727983707
+c_side c_side;-1,01160091167848
+c__ c_address;-2,3978952727983707
+c_work c_side c_side;-1,2992829841302609
+c__ c_address c_said;-2,3978952727983707
+c_work c_side;-1,2992829841302609
+c__ c_address c_said c_dead;-2,3978952727983707
+c_weather;-1,2992829841302609
+c__ c_along;-2,3978952727983707
+c_victori;-1,2992829841302609
+c__ c_along c_support;-2,3978952727983707
+c_user c_fund;-1,2992829841302609
+c__ c_along c_support c_vulkan;-2,3978952727983707
+c_use c_best;-1,2992829841302609
+c__ c_also;-2,3978952727983707
+c_trade c_agreement;-1,2992829841302609
+c__ c_also c_come;-2,3978952727983707
+c_total c_invest;-1,2992829841302609
+c__ c_also c_come c_boon;-2,3978952727983707
+c_take c_hold;-1,2992829841302609
+Word;Coefficient
+c__;-2,6390573296152584
+t_pay;-1,5404450409471486
+c__ c__;-2,6390573296152584
+c_yet c_also;-1,5404450409471486
+c__ c__ c_mir_btc;-2,6390573296152584
+c_world c_lead;-1,5404450409471486
+c__ c__ c_mir_btc c_decemb;-2,6390573296152584
+c_work c_creat;-1,5404450409471486
+c__ c_although;-2,6390573296152584
+c_way c_store;-1,5404450409471486
+c__ c_although c_play;-2,6390573296152584
+c_vs;-1,5404450409471486
+c__ c_although c_play c_role;-2,6390573296152584
+c_venezuelan;-1,5404450409471486
+c__ c_among;-2,6390573296152584
+c_transact c_store;-1,5404450409471486
+c__ c_among c_australia;-2,6390573296152584
+c_transact c_record;-1,5404450409471486
+c__ c_among c_australia c_japan;-2,6390573296152584
+c_sling;-1,5404450409471486

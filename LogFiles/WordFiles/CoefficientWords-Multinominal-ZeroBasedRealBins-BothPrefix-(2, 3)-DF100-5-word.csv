@@ -1,0 +1,484 @@
+Word;Coefficient;Target
+c__ c_adrien;-15,0006757584;High
+c_financialbuzz c_com;-13,6877906981;High
+c__ c_adrien c_guinet;-15,0006757584;High
+c_prosecutor c_said;-13,7181297577;High
+c__ c_also;-15,0006757584;High
+c_darknet c_market;-13,8559378876;High
+c__ c_also c_come;-15,0006757584;High
+c_marshal c_servic;-13,9580817473;High
+c__ c_anim;-15,0006757584;High
+c_legend c_room;-13,9905425929;High
+c__ c_anim c_fill;-15,0006757584;High
+c_chicago c_board c_option;-13,9947822297;High
+c__ c_aspx;-15,0006757584;High
+c_board c_option;-13,9959897468;High
+c__ c_aspx c_eastern;-15,0006757584;High
+c_chicago c_board;-13,9995459303;High
+c__ c_breitwoman;-15,0006757584;High
+c_ethereum c_classic;-14,0046391249;High
+c__ c_breitwoman c_januari;-15,0006757584;High
+c_invest c_trust;-14,0109352777;High
+c__ c_breitwoman c_septemb;-15,0006757584;High
+c_board c_option c_exchang;-14,0185974746;High
+c__ c_card;-15,0006757584;High
+c_craig c_wright;-14,0247503082;High
+c__ c_card c_type;-15,0006757584;High
+c_cent c_percent;-14,0326175848;High
+c__ c_check;-15,0006757584;High
+c_googletag c_pubad;-14,0354671255;High
+c__ c_check c_link;-15,0006757584;High
+c_document c_write;-14,0366560405;High
+c__ c_along;-15,0003248985;Highest
+c_financialbuzz c_com;-13,680651755;Highest
+c__ c_along c_support;-15,0003248985;Highest
+c_game c_throne;-13,7454224756;Highest
+c__ c_anim;-15,0003248985;Highest
+c_nhs c_digit;-13,793167749;Highest
+c__ c_anim c_fill;-15,0003248985;Highest
+c____ c_p;-13,826601913;Highest
+c__ c_breitwoman;-15,0003248985;Highest
+c_look c_inform;-13,8732258592;Highest
+c__ c_breitwoman c_januari;-15,0003248985;Highest
+c_forward c_look c_inform;-13,8741688017;Highest
+c__ c_breitwoman c_septemb;-15,0003248985;Highest
+c_invest c_trust;-13,8982419828;Highest
+c__ c_check;-15,0003248985;Highest
+c_wan c_na;-13,9209368056;Highest
+c__ c_check c_link;-15,0003248985;Highest
+c_bitcoin c_invest c_trust;-13,984584703;Highest
+c__ c_column;-15,0003248985;Highest
+c_cent c_per c_barrel;-14,0026607087;Highest
+c__ c_column c_necessarili;-15,0003248985;Highest
+c_hit c_ransomwar;-14,004953306;Highest
+c__ c_compani;-15,0003248985;Highest
+c_wurfl c_is_mobil;-14,0261030666;Highest
+c__ c_compani c_gocopyright;-15,0003248985;Highest
+c_critic c_infrastructur;-14,038812492;Highest
+c__ c_cryptocurr;-15,0003248985;Highest
+c_virtual c_currenc c_use;-14,0444972935;Highest
+c__ c_cryptocurr c_thefuturea;-15,0003248985;Highest
+c_window c__taboola;-14,0512316834;Highest
+c__ c_adrien;-14,9965332952;Low
+c_wurfl c_is_mobil;-13,7300906132;Low
+c__ c_adrien c_guinet;-14,9965332952;Low
+c_prosecutor c_said;-13,9897667105;Low
+c__ c_along;-14,9965332952;Low
+c_dark c_net;-14,0273160062;Low
+c__ c_along c_support;-14,9965332952;Low
+c_dimon c_said;-14,044283745;Low
+c__ c_also;-14,9965332952;Low
+c_pirat c_caribbean;-14,1057670695;Low
+c__ c_also c_come;-14,9965332952;Low
+c_btc c_e;-14,116535762;Low
+c__ c_anim;-14,9965332952;Low
+c_financialbuzz c_com;-14,1292180421;Low
+c__ c_anim c_fill;-14,9965332952;Low
+c_cyber c_crime;-14,1720045637;Low
+c__ c_aspx;-14,9965332952;Low
+c_wurfl c_object c_wurfl;-14,1749471706;Low
+c__ c_aspx c_eastern;-14,9965332952;Low
+c_wurfl c_object;-14,1749471706;Low
+c__ c_card;-14,9965332952;Low
+c_wurfl c_is_mobil c_wurfl;-14,1749471706;Low
+c__ c_card c_type;-14,9965332952;Low
+c_wurfl c_is_mobil c_navig;-14,1749471706;Low
+c__ c_compani;-14,9965332952;Low
+c_wurfl c_complete_device_nam c_indexof;-14,1749471706;Low
+c__ c_compani c_gocopyright;-14,9965332952;Low
+c_wurfl c_complete_device_nam;-14,1749471706;Low
+c__ c_countri;-14,9965332952;Low
+c_whatsapp c_document c_readi;-14,1749471706;Low
+c__ c_adrien;-14,9961623315;Lowest
+c_ice c_tea;-13,7324892126;Lowest
+c__ c_adrien c_guinet;-14,9961623315;Lowest
+c_wurfl c_is_mobil;-13,8192159958;Lowest
+c__ c_along;-14,9961623315;Lowest
+c_googletag c_pubad;-13,8903264579;Lowest
+c__ c_along c_support;-14,9961623315;Lowest
+c_long c_blockchain;-13,9208720944;Lowest
+c__ c_also;-14,9961623315;Lowest
+c_document c_write;-13,9285776956;Lowest
+c__ c_also c_come;-14,9961623315;Lowest
+c_long c_island c_ice;-13,9377367238;Lowest
+c__ c_aspx;-14,9961623315;Lowest
+c_island c_ice c_tea;-13,9377367238;Lowest
+c__ c_aspx c_eastern;-14,9961623315;Lowest
+c_island c_ice;-13,9395096511;Lowest
+c__ c_breitwoman;-14,9961623315;Lowest
+c_long c_island;-13,9406182791;Lowest
+c__ c_breitwoman c_januari;-14,9961623315;Lowest
+c_korean c_exchang;-13,9438856608;Lowest
+c__ c_breitwoman c_septemb;-14,9961623315;Lowest
+c_rose c_cent;-13,9910135295;Lowest
+c__ c_card;-14,9961623315;Lowest
+c_bitcoin c_plung;-14,0361774265;Lowest
+c__ c_card c_type;-14,9961623315;Lowest
+c_chang c_name;-14,0430050879;Lowest
+c__ c_check;-14,9961623315;Lowest
+c_etern c_blue;-14,0700493321;Lowest
+c__ c_check c_link;-14,9961623315;Lowest
+c_suspend c_trade;-14,079759992;Lowest
+Word;Coefficient;Target
+c__ c_cryptocurr;-13,7438053615;High
+c_prosecutor c_said;-12,26736684;High
+c__ c_cryptocurr c_thefuturea;-13,7438053615;High
+c_brian c_kelli;-12,2794561137;High
+c__ c_endurescopyright;-13,7438053615;High
+c_financialbuzz c_com;-12,2971969109;High
+c__ c_endurescopyright c_associ;-13,7438053615;High
+c_guy c_adami;-12,5392880685;High
+c__ c_g_dde;-13,7438053615;High
+c_machin c_learn;-12,5522071654;High
+c__ c_g_dde c_lδser_;-13,7438053615;High
+c_put c_spread;-12,5601916386;High
+c__ c_https;-13,7438053615;High
+c_craig c_wright;-12,5697565467;High
+c__ c_https c_co;-13,7438053615;High
+c_googletag c_pubad;-12,5878038777;High
+c__ c_pic;-13,7438053615;High
+c_justic c_minist;-12,6134057683;High
+c__ c_pic c_twitter;-13,7438053615;High
+c_document c_write;-12,6196350302;High
+c__ c_rippl;-13,7438053615;High
+c_marshal c_island;-12,6535225385;High
+c__ c_rippl c_full;-13,7438053615;High
+c_tim c_seymour;-12,6715437086;High
+c__ c_thefoxchain;-13,7438053615;High
+c_newswir c_com;-12,692799637;High
+c__ c_thefoxchain c_januari;-13,7438053615;High
+c_chicago c_board c_option;-12,7064881622;High
+c__ c_trumpvalu;-13,7438053615;High
+c_board c_option;-12,7064881622;High
+c__ c_current;-13,7442277936;Highest
+c_financialbuzz c_com;-12,2038908689;Highest
+c__ c_endurescopyright;-13,7442277936;Highest
+c_game c_throne;-12,4253206492;Highest
+c__ c_endurescopyright c_associ;-13,7442277936;Highest
+c_wurfl c_is_mobil;-12,4264163101;Highest
+c__ c_g_dde;-13,7442277936;Highest
+c_window c__taboola;-12,5622950827;Highest
+c__ c_g_dde c_lδser_;-13,7442277936;Highest
+c_bitcoin c_etf;-12,5703294327;Highest
+c__ c_https;-13,7442277936;Highest
+c_carney c_said;-12,6197658724;Highest
+c__ c_https c_co;-13,7442277936;Highest
+c_wan c_na;-12,669540104;Highest
+c__ c_rippl;-13,7442277936;Highest
+t_digit t_currenc;-12,6735032772;Highest
+c__ c_rippl c_full;-13,7442277936;Highest
+c_told c_ibt;-12,6763606517;Highest
+c__ c_thefoxchain;-13,7442277936;Highest
+c_rose c_per;-12,6810256382;Highest
+c__ c_thefoxchain c_januari;-13,7442277936;Highest
+c_document c_write;-12,6814338851;Highest
+c___ c_hous;-13,7442277936;Highest
+c_rose c_per c_cent;-12,6842298156;Highest
+c___ c_hous c_speaker;-13,7442277936;Highest
+c_russia c_ukrain;-12,6852563461;Highest
+c___ c_p;-13,7442277936;Highest
+c_invest c_trust;-12,69045889;Highest
+c___ c_p c_presid;-13,7442277936;Highest
+c_googletag c_pubad;-12,6967411495;Highest
+c__ c_g_dde;-13,7342336206;Low
+c_prosecutor c_said;-12,53063743;Low
+c__ c_g_dde c_lδser_;-13,7342336206;Low
+c_ip c_address;-12,6293594637;Low
+c__ c_rippl;-13,7342336206;Low
+c_dimon c_said;-12,6786436046;Low
+c__ c_rippl c_full;-13,7342336206;Low
+c_thomson c_reuter;-12,7260968106;Low
+c__ c_thefoxchain;-13,7342336206;Low
+c_vitalik c_buterin;-12,7308156818;Low
+c__ c_thefoxchain c_januari;-13,7342336206;Low
+c_wurfl c_is_mobil;-12,7314644196;Low
+c__ c_trumpvalu;-13,7342336206;Low
+c_btc c_e;-12,7497035982;Low
+c__ c_trumpvalu c_villag;-13,7342336206;Low
+c_net c_worth;-12,7716198782;Low
+c____ c_ask;-13,7342336206;Low
+c_hard c_fork;-12,7792694093;Low
+c____ c_ask c_die;-13,7342336206;Low
+c_vollständigen c_artikel c_lesen;-12,7856451535;Low
+c____ c_bitcoin c_futur;-13,7342336206;Low
+c_vollständigen c_artikel;-12,7856451535;Low
+c____ c_c;-13,7342336206;Low
+c_den c_vollständigen c_artikel;-12,7856451535;Low
+c____ c_even;-13,7342336206;Low
+c_den c_vollständigen;-12,7856451535;Low
+c____ c_even c_talk;-13,7342336206;Low
+c_artikel c_lesen;-12,7856451535;Low
+c____ c_influenc;-13,7342336206;Low
+c_kushner c_said;-12,7951099191;Low
+c__ c_current;-13,7354451041;Lowest
+c_ice c_tea;-12,3661327506;Lowest
+c__ c_endurescopyright;-13,7354451041;Lowest
+c_financialbuzz c_com;-12,4213397735;Lowest
+c__ c_endurescopyright c_associ;-13,7354451041;Lowest
+c_wurfl c_is_mobil;-12,5167265389;Lowest
+c__ c_trumpvalu;-13,7354451041;Lowest
+c_long c_island;-12,5683079371;Lowest
+c__ c_trumpvalu c_villag;-13,7354451041;Lowest
+c_long c_blockchain;-12,581081937;Lowest
+c___ c_hous;-13,7354451041;Lowest
+c_island c_ice c_tea;-12,5819696081;Lowest
+c___ c_hous c_speaker;-13,7354451041;Lowest
+c_island c_ice;-12,5819696081;Lowest
+c___ c_p;-13,7354451041;Lowest
+c_chang c_name;-12,6225891331;Lowest
+c___ c_p c_presid;-13,7354451041;Lowest
+c_long c_island c_ice;-12,6242435019;Lowest
+c___ c_p c_white;-13,7354451041;Lowest
+t_bitcoin t_fall;-12,6802071937;Lowest
+c___ c_pic;-13,7354451041;Lowest
+c_bitcoin c_drop;-12,6838786903;Lowest
+c___ c_pic c_twitter;-13,7354451041;Lowest
+c_month c_low;-12,7086347809;Lowest
+c___ c_presid;-13,7354451041;Lowest
+c_suspend c_trade;-12,713702413;Lowest
+c___ c_presid c_donald;-13,7354451041;Lowest
+c_global c_blockchain;-12,7148274807;Lowest
+c___ c_son;-13,7354451041;Lowest
+c_index c_fund;-12,7148967421;Lowest
+Word;Coefficient;Target
+c__ c_breitwoman;-13,0383210403;High
+c_prosecutor c_said;-11,5328095221;High
+c__ c_breitwoman c_januari;-13,0383210403;High
+c_vollständigen c_artikel c_lesen;-11,6522848093;High
+c__ c_breitwoman c_septemb;-13,0383210403;High
+c_vollständigen c_artikel;-11,6522848093;High
+c__ c_endurescopyright;-13,0383210403;High
+c_den c_vollständigen c_artikel;-11,6522848093;High
+c__ c_endurescopyright c_associ;-13,0383210403;High
+c_den c_vollständigen;-11,6522848093;High
+c__ c_good;-13,0383210403;High
+c_artikel c_lesen;-11,6522848093;High
+c__ c_good c_year;-13,0383210403;High
+c_legend c_room;-11,6832616788;High
+c__ c_https;-13,0383210403;High
+c_hard c_fork;-11,6878608117;High
+c__ c_https c_co;-13,0383210403;High
+c_bitcoin c_core;-11,7359934292;High
+c__ c_pic;-13,0383210403;High
+c_financialbuzz c_com;-11,7385433916;High
+c__ c_pic c_twitter;-13,0383210403;High
+c_game c_throne;-11,7778717026;High
+c__ c_trumpvalu;-13,0383210403;High
+c_craig c_wright;-11,7811273311;High
+c__ c_trumpvalu c_villag;-13,0383210403;High
+c_mark c_zuckerberg;-11,8035020772;High
+c____ c_expert;-13,0383210403;High
+c_justic c_minist;-11,8141551247;High
+c____ c_expert c_global;-13,0383210403;High
+c_googletag c_pubad;-11,8223805412;High
+c__ c_endurescopyright;-13,0376575565;Highest
+c_hard c_fork;-11,554620858;Highest
+c__ c_endurescopyright c_associ;-13,0376575565;Highest
+c_financialbuzz c_com;-11,6082742618;Highest
+c___ c_hous;-13,0376575565;Highest
+c_game c_throne;-11,6808918477;Highest
+c___ c_hous c_speaker;-13,0376575565;Highest
+c_block c_chain;-11,7266946603;Highest
+c___ c_p;-13,0376575565;Highest
+c_googletag c_pubad;-11,7460727753;Highest
+c___ c_p c_presid;-13,0376575565;Highest
+c_document c_write;-11,7460727753;Highest
+c___ c_p c_white;-13,0376575565;Highest
+c_invest c_trust;-11,7573001588;Highest
+c___ c_presid;-13,0376575565;Highest
+c_googletag c_display;-11,8423938105;Highest
+c___ c_presid c_donald;-13,0376575565;Highest
+c_function c_googletag c_display;-11,8423938105;Highest
+c___ c_son;-13,0376575565;Highest
+c_window c__taboola;-11,8530141779;Highest
+c___ c_son c_law;-13,0376575565;Highest
+c_googletag c_display c_div;-11,861502348;Highest
+c____ c_bitcoin;-13,0376575565;Highest
+c_display c_div c_gpt;-11,861502348;Highest
+c____ c_bitcoin c_futur;-13,0376575565;Highest
+c_display c_div;-11,861502348;Highest
+c____ c_britain;-13,0376575565;Highest
+c_block c_size;-11,8819199487;Highest
+c____ c_britain c_health;-13,0376575565;Highest
+c_articl c_thumbnail;-11,8894188862;Highest
+c__ c_trumpvalu;-13,0216412684;Low
+c_justic c_depart;-11,7448421717;Low
+c__ c_trumpvalu c_villag;-13,0216412684;Low
+c_thomson c_reuter;-11,7701720475;Low
+c____ c_australia;-13,0216412684;Low
+c_wurfl c_is_mobil;-11,8277676046;Low
+c____ c_australia c_govern;-13,0216412684;Low
+c_dimon c_said;-11,8433861263;Low
+c____ c_bitcoin;-13,0216412684;Low
+c_bitcoin c_gold;-11,8792745751;Low
+c____ c_bitcoin c_futur;-13,0216412684;Low
+c_net c_worth;-11,9471994911;Low
+c____ c_danish;-13,0216412684;Low
+c_bitcoin c_atm;-11,9551651437;Low
+c____ c_danish c_ship;-13,0216412684;Low
+c_btc c_e;-11,956082168;Low
+c____ c_even;-13,0216412684;Low
+c_ip c_address;-11,9633683529;Low
+c____ c_even c_talk;-13,0216412684;Low
+c_businesswir c_com;-11,9746607663;Low
+c____ c_expert;-13,0216412684;Low
+c_financialbuzz c_com;-11,9826818517;Low
+c____ c_expert c_global;-13,0216412684;Low
+c_imag c_iol;-12,0027540518;Low
+c____ c_german;-13,0216412684;Low
+c_trade c_financ;-12,0068541661;Low
+c____ c_german c_busi;-13,0216412684;Low
+c_data c_breach;-12,0096035919;Low
+c____ c_high;-13,0216412684;Low
+c_power c_ledger;-12,0114779567;Low
+c__ c_breitwoman;-13,0218015364;Lowest
+c_world c_econom;-11,6780290703;Lowest
+c__ c_breitwoman c_januari;-13,0218015364;Lowest
+c_world c_econom c_forum;-11,6894952108;Lowest
+c__ c_breitwoman c_septemb;-13,0218015364;Lowest
+c_econom c_forum;-11,697128581;Lowest
+c__ c_endurescopyright;-13,0218015364;Lowest
+c_financialbuzz c_com;-11,7246549512;Lowest
+c__ c_endurescopyright c_associ;-13,0218015364;Lowest
+c_ice c_tea;-11,7426528448;Lowest
+c__ c_pic;-13,0218015364;Lowest
+c_wurfl c_is_mobil;-11,7438020709;Lowest
+c__ c_pic c_twitter;-13,0218015364;Lowest
+c_googletag c_pubad;-11,786640775;Lowest
+c__ c_trumpvalu;-13,0218015364;Lowest
+c_document c_write;-11,8238260765;Lowest
+c__ c_trumpvalu c_villag;-13,0218015364;Lowest
+c_custom c_buy;-11,8538940201;Lowest
+c___ c_hous;-13,0218015364;Lowest
+c_net c_neutral;-11,8600774297;Lowest
+c___ c_hous c_speaker;-13,0218015364;Lowest
+c_block c_chain;-11,8627531506;Lowest
+c___ c_p;-13,0218015364;Lowest
+c_stori c_continu;-11,8893146564;Lowest
+c___ c_p c_presid;-13,0218015364;Lowest
+c_percent c_lower;-11,9069052993;Lowest
+c___ c_p c_white;-13,0218015364;Lowest
+c_long c_island c_ice;-11,911139195;Lowest
+c___ c_presid;-13,0218015364;Lowest
+c_island c_ice c_tea;-11,911139195;Lowest
+Word;Coefficient;Target
+c__ c_endurescopyright;-12,2463885366;High
+c_prosecutor c_said;-10,5688349985;High
+c__ c_endurescopyright c_associ;-12,2463885366;High
+c_game c_throne;-10,6012111942;High
+c____ c_expert;-12,2463885366;High
+c_googletag c_pubad;-10,7509929415;High
+c____ c_expert c_global;-12,2463885366;High
+c_document c_write;-10,7509929415;High
+c____ c_german;-12,2463885366;High
+c_craig c_wright;-10,7845532576;High
+c____ c_german c_busi;-12,2463885366;High
+c_islam c_state;-10,8135249655;High
+c____ c_indian c_prime;-12,2463885366;High
+c_legend c_room;-10,824665036;High
+c____ c_p c_britain;-12,2463885366;High
+c_brian c_kelli;-10,8748406546;High
+c____ c_p c_british;-12,2463885366;High
+c_financialbuzz c_com;-10,9019634781;High
+c____ c_p c_canadian;-12,2463885366;High
+c_businesswir c_com;-10,9128382108;High
+c____ c_p c_cyberattack;-12,2463885366;High
+c_net c_neutral;-10,9203032452;High
+c____ c_p c_davo;-12,2463885366;High
+c_vollständigen c_artikel c_lesen;-10,9349227621;High
+c____ c_p c_former;-12,2463885366;High
+c_vollständigen c_artikel;-10,9349227621;High
+c____ c_p c_franc;-12,2463885366;High
+c_den c_vollständigen c_artikel;-10,9349227621;High
+c____ c_p c_german;-12,2463885366;High
+c_den c_vollständigen;-10,9349227621;High
+c__ c_endurescopyright;-12,2501699915;Highest
+c_financialbuzz c_com;-10,6079186737;Highest
+c__ c_endurescopyright c_associ;-12,2501699915;Highest
+c_game c_throne;-10,6297331383;Highest
+c____ c_expert;-12,2501699915;Highest
+c_pre c_sale;-10,7139021633;Highest
+c____ c_expert c_global;-12,2501699915;Highest
+c_hard c_fork;-10,7919913586;Highest
+c____ c_german;-12,2501699915;Highest
+c_googletag c_pubad;-10,8397126092;Highest
+c____ c_german c_busi;-12,2501699915;Highest
+c_document c_write;-10,8397126092;Highest
+c____ c_indian;-12,2501699915;Highest
+c_sourc c_said;-10,8659697454;Highest
+c____ c_indian c_prime;-12,2501699915;Highest
+c_invest c_trust;-10,8678647379;Highest
+c____ c_p c_canadian;-12,2501699915;Highest
+c_bitcoin c_ira;-10,8701984123;Highest
+c____ c_p c_davo;-12,2501699915;Highest
+c_nhs c_digit;-10,8854379248;Highest
+c____ c_p c_first;-12,2501699915;Highest
+c_wan c_na;-10,9350494071;Highest
+c____ c_p c_former;-12,2501699915;Highest
+c_window c__taboola;-10,9351039991;Highest
+c____ c_p c_german;-12,2501699915;Highest
+c_data c_center;-10,9570712255;Highest
+c____ c_p c_head;-12,2501699915;Highest
+c_bitcoin c_gold;-10,9603300516;Highest
+c____ c_p c_hundr;-12,2501699915;Highest
+t_busi t_news;-10,997729615;Highest
+c____ c_even;-12,2141764086;Low
+c_prosecutor c_said;-10,5676842272;Low
+c____ c_even c_talk;-12,2141764086;Low
+c_btc c_e;-10,7503575805;Low
+c____ c_expert;-12,2141764086;Low
+c_net c_worth;-10,8507559161;Low
+c____ c_expert c_global;-12,2141764086;Low
+c_graphic c_card;-10,9058129812;Low
+c____ c_german;-12,2141764086;Low
+c_virtual c_money;-10,9267960371;Low
+c____ c_german c_busi;-12,2141764086;Low
+c_bitcoin c_core;-10,9440677424;Low
+c____ c_indian c_prime;-12,2141764086;Low
+c_dream c_market;-10,9497137174;Low
+c____ c_influenc;-12,2141764086;Low
+c_data c_breach;-11,017914549;Low
+c____ c_influenc c_elect;-12,2141764086;Low
+c_thomson c_reuter;-11,0230626763;Low
+c____ c_make;-12,2141764086;Low
+c_mobil c_payment;-11,0466866967;Low
+c____ c_make c_america;-12,2141764086;Low
+c_us c_govern;-11,0502524993;Low
+c____ c_p c_britain;-12,2141764086;Low
+c_las c_vega;-11,0553778225;Low
+c____ c_p c_british;-12,2141764086;Low
+c_craig c_wright;-11,0614977921;Low
+c____ c_p c_canadian;-12,2141764086;Low
+c_said c_bank;-11,0627915284;Low
+c____ c_p c_cyberattack;-12,2141764086;Low
+c_justic c_depart;-11,071147978;Low
+c__ c_endurescopyright;-12,2230735484;Lowest
+c_index c_fund;-10,8763310086;Lowest
+c__ c_endurescopyright c_associ;-12,2230735484;Lowest
+c_stori c_continu;-10,8821117442;Lowest
+c____ c_even;-12,2230735484;Lowest
+t_top t_technolog t_news;-10,9181240434;Lowest
+c____ c_even c_talk;-12,2230735484;Lowest
+t_top t_technolog;-10,9181240434;Lowest
+c____ c_influenc;-12,2230735484;Lowest
+t_technolog t_news;-10,9181240434;Lowest
+c____ c_influenc c_elect;-12,2230735484;Lowest
+t_ap t_top t_technolog;-10,9181240434;Lowest
+c____ c_make;-12,2230735484;Lowest
+c_fell c_low;-10,9194046591;Lowest
+c____ c_make c_america;-12,2230735484;Lowest
+c_percent c_lower;-10,9260924398;Lowest
+c____ c_p c_britain;-12,2230735484;Lowest
+c_new c_jersey;-10,9434386215;Lowest
+c____ c_p c_british;-12,2230735484;Lowest
+c_insid c_trade;-10,9564377145;Lowest
+c____ c_p c_cyberattack;-12,2230735484;Lowest
+t_est t_sourc;-10,960154805;Lowest
+c____ c_p c_franc;-12,2230735484;Lowest
+c_net c_neutral;-10,9657915422;Lowest
+c____ c_p c_romania;-12,2230735484;Lowest
+c_bear c_market;-10,9695974878;Lowest
+c____ c_p c_russia;-12,2230735484;Lowest
+c_mid c_decemb;-10,9712841641;Lowest
+c____ c_p c_spain;-12,2230735484;Lowest
+c_iron c_ore;-10,9804866635;Lowest

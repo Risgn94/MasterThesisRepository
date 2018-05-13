@@ -1,0 +1,99 @@
+Word;Coefficient
+c_digit c_asset c_hold;-0,2765071840337616
+c_printabl c_version c_mar;-0,18977849242646336
+c_orang c_new c_black;-0,18148210053151623
+c_allow c_investor c_bet;-0,17478753289238103
+c_credit c_china c_fintech;-0,17476896759056879
+c_extradit c_unit c_state;-0,16804929974947164
+c_http c_tmsnrt c_rs;-0,1664038104110632
+c_law c_enforc c_offici;-0,16448952234463055
+c_score c_japan c_nikkei;-0,164027932288258
+c_justic c_depart c_said;-0,16219813764565197
+Word;Coefficient
+c_contract c_expir c_januari;-0,2267838602838372
+c_futur c_contract c_expir;-0,22328180594942276
+c_grayscal c_invest c_llc;-0,19814158893780875
+c_futur c_contract c_expir c_januari;-0,19776500763261476
+c_deriv c_exchang c_oper;-0,18161445962716274
+t_crypto t_fool t_goldc_none;-0,1739284344845546
+c_confer c_new c_york;-0,1717625325633834
+c_orang c_new c_black;-0,169564812404509
+c_financi c_servic c_firm;-0,1692108304450553
+c_newswir c_visit c_http;-0,16427462667986986
+Word;Coefficient
+c_orang c_new c_black;-0,2623423106142807
+c_forward c_look c_inform;-0,20409069900124316
+c_display c_div c_gpt;-0,20397574989318196
+c_display c_div c_gpt c_ad;-0,20397574989318196
+c_function c_googletag c_display c_div;-0,20397574989318196
+c_googletag c_display c_div;-0,20397574989318196
+c_googletag c_display c_div c_gpt;-0,20397574989318196
+c_new c_record c_high;-0,19107708652857805
+c_percent c_sinc c_start;-0,18913112796287251
+c_contract c_expir c_januari;-0,18715796185146558
+Word;Coefficient
+c_digit c_asset c_exchang;-0,19514322110017543
+c_http c_photo c_prnewswir;-0,19272273776394497
+c_http c_photo c_prnewswir c_com;-0,19272273776394497
+c_photo c_prnewswir c_com;-0,19272273776394497
+c_photo c_prnewswir c_com c_prnh;-0,19272273776394497
+c_prnewswir c_com c_prnh;-0,19272273776394497
+c_orang c_new c_black;-0,19140929932443593
+c_new c_record c_high;-0,18262076130232138
+c_reuter c_dado c_ruvic;-0,18218541020165732
+c_contract c_expir c_januari;-0,1815722455952779
+Word;Coefficient
+c_forward c_look c_inform;-0,4036948732824601
+c_contract c_expir c_januari;-0,22966795592557449
+c_self c_drive c_car;-0,2210398387919997
+c_futur c_contract c_expir;-0,2076681465108408
+c_futur c_contract c_expir c_januari;-0,20741264378661087
+c_score c_japan c_nikkei;-0,18515746345831677
+c_maintain c_network c_comput c_internet;-0,17820537410110598
+c_social c_secur c_number;-0,1773766545283761
+c_keep c_score c_japan c_nikkei;-0,16999949866807362
+c_orang c_new c_black;-0,16865978781755608
+Word;Coefficient
+c_digit c_asset c_hold;-0,23821953306423702
+c_grayscal c_invest c_llc;-0,22728148430699457
+c_display c_div c_gpt;-0,18755233756443937
+c_display c_div c_gpt c_ad;-0,18755233756443937
+c_function c_googletag c_display c_div;-0,18755233756443937
+c_googletag c_display c_div;-0,18755233756443937
+c_googletag c_display c_div c_gpt;-0,18755233756443937
+c_orang c_new c_black;-0,18688956923840708
+c_first c_bitcoin c_capit;-0,1866655617856345
+c_capit c_invest c_inc;-0,18348810017929415
+Word;Coefficient
+c_new c_record c_high;-0,20305190872096815
+c_orang c_new c_black;-0,18875149228073665
+c_percent c_sinc c_start;-0,18748294750678493
+c_digit c_asset c_hold;-0,17852724908434245
+c_futur c_contract c_expir;-0,17751671890407045
+c_maintain c_network c_comput c_internet;-0,17729365988528917
+c_network c_comput c_internet;-0,17729365988528917
+c_digit c_transact c_manag;-0,17155944170167997
+c_display c_div c_gpt;-0,17153536212526943
+c_display c_div c_gpt c_ad;-0,17153536212526943
+Word;Coefficient
+c_grayscal c_invest c_llc;-0,2770083437908815
+c_forward c_look c_inform;-0,2521111759926962
+c_contract c_expir c_januari;-0,20124856976230124
+c_list c_bitcoin c_futur;-0,19923983869274195
+c_orang c_new c_black;-0,19698045709889428
+c_energi c_benchmark c_u;-0,19484657518702161
+c_energi c_benchmark c_u c_crude;-0,19484657518702161
+c_archiv c_print c_headlin;-0,186330227250479
+c_archiv c_stori c_purchas;-0,186330227250479
+c_archiv c_stori c_purchas c_individu;-0,186330227250479
+Word;Coefficient
+c_orang c_new c_black;-0,20321660132951586
+c_contract c_expir c_januari;-0,19769386733361996
+c_futur c_contract c_expir;-0,1959376630752919
+c_deriv c_exchang c_oper;-0,18555243775354344
+c_world c_popular c_virtual c_currenc;-0,18553630228373713
+c_futur c_contract c_expir c_januari;-0,18152648122710927
+c_financi c_servic c_firm;-0,1803930556637427
+c_financi c_servic c_compani;-0,17783738011664219
+c_virtual c_currenc c_use;-0,16908904093038477
+c_allow c_investor c_bet;-0,1672762331671546

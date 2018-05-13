@@ -1,0 +1,189 @@
+Word;Coefficient
+c__ c_anim;-8,539932678385727
+c_wan c_na;-4,109115879542413
+c__ c_anim c_fill;-8,539932678385727
+c_nation c_cyber c_secur c_centr;-4,109115879542413
+c__ c_anim c_fill c_role;-8,539932678385727
+c_group c_call c_shadow c_broker;-4,109115879542413
+c__ c_averag;-8,539932678385727
+c_group c_call c_shadow;-4,109115879542413
+c__ c_averag c_decis;-8,539932678385727
+c_decryptor;-4,133213431121473
+c__ c_averag c_decis c_led;-8,539932678385727
+c_ambul;-4,157906043711845
+c__ c_bithumb;-8,539932678385727
+c_vladimir c_putin;-4,170484825918705
+c__ c_bithumb c_coinon;-8,539932678385727
+c_day c_price;-4,170484825918705
+c__ c_bithumb c_coinon c_korbit;-8,539932678385727
+c_russia c_interior;-4,183223851696135
+c__ c_breitwoman;-8,539932678385727
+c_document c_leak;-4,183223851696135
+Word;Coefficient
+c__ c_although;-8,555836815008442
+c_turn c_away;-4,089928696353859
+c__ c_although c_play;-8,555836815008442
+c_avast;-4,113185558518126
+c__ c_although c_play c_role;-8,555836815008442
+c_malwar c_spread;-4,186388962541421
+c__ c_card;-8,555836815008442
+c_one c_week;-4,225103474722111
+c__ c_card c_type;-8,555836815008442
+c_na;-4,251771721804272
+c__ c_card c_type c_devic;-8,555836815008442
+c_foot;-4,265377373860051
+c__ c_check;-8,555836815008442
+c_lazarus;-4,279170695992387
+c__ c_check c_link;-8,555836815008442
+c_lay;-4,293156937967127
+c__ c_check c_link c_bio;-8,555836815008442
+c_critic c_infrastructur;-4,293156937967127
+c__ c_curios;-8,555836815008442
+c_bitcoin c_rose;-4,293156937967127
+Word;Coefficient
+c__ c_also;-8,545974992841689
+c_na;-4,091627696588182
+c__ c_also c_come;-8,545974992841689
+c_bahn;-4,163948358167808
+c__ c_also c_come c_boon;-8,545974992841689
+c_deutsch c_bahn;-4,1765271403746675
+c__ c_averag c_jhoo;-8,545974992841689
+c_avast;-4,1765271403746675
+c__ c_averag c_jhoo c_dong;-8,545974992841689
+c_launch c_futur;-4,202169570988005
+c__ c_chicago;-8,545974992841689
+c_secur c_centr;-4,228486879305379
+c__ c_chicago c_mercantil;-8,545974992841689
+c_nation c_cyber c_secur c_centr;-4,228486879305379
+c__ c_chicago c_mercantil c_exchang;-8,545974992841689
+c_cyber c_secur c_centr;-4,228486879305379
+c__ c_compani;-8,545974992841689
+c_ambul;-4,228486879305379
+c__ c_compani c_gocopyright;-8,545974992841689
+c_nation c_currenc;-4,255515551693298
+Word;Coefficient
+c__ c_card;-8,534836626588833
+c_avast;-4,057499812110626
+c__ c_card c_type;-8,534836626588833
+c_wan;-4,128117379324579
+c__ c_card c_type c_devic;-8,534836626588833
+c_presid c_vladimir;-4,165388774121811
+c__ c_check;-8,534836626588833
+c_russia c_interior c_ministri;-4,178127799899241
+c__ c_check c_link;-8,534836626588833
+c_presid c_vladimir c_putin;-4,191031204735149
+c__ c_check c_link c_bio;-8,534836626588833
+c_wan c_na;-4,204103286302502
+c__ c_cryptocurr;-8,534836626588833
+c_new c_record;-4,204103286302502
+c__ c_cryptocurr c_thefuturea;-8,534836626588833
+c_decryptor;-4,204103286302502
+c__ c_cryptocurr c_thefuturea c_post;-8,534836626588833
+c_exchang c_cme;-4,217348513052523
+c__ c_current;-8,534836626588833
+c_turn c_away;-4,2307715333846625
+Word;Coefficient
+c__ c_also;-8,55159461813357
+c_na;-4,157145463461132
+c__ c_also c_come;-8,55159461813357
+c_secur c_centr;-4,182146765666549
+c__ c_also c_come c_boon;-8,55159461813357
+c_nation c_cyber c_secur c_centr;-4,194885791443979
+c__ c_averag;-8,55159461813357
+c_cyber c_secur c_centr;-4,194885791443979
+c__ c_averag c_decis;-8,55159461813357
+c_global c_ransomwar c_attack;-4,22086127784724
+c__ c_averag c_decis c_led;-8,55159461813357
+c_investor c_bitcoin;-4,2475295249294005
+c__ c_bithumb;-8,55159461813357
+c_spam;-4,26113517698518
+c__ c_bithumb c_coinon;-8,55159461813357
+c_gdax;-4,288914741092255
+c__ c_bithumb c_coinon c_korbit;-8,55159461813357
+c_presid c_vladimir c_putin;-4,303099376084211
+c__ c_check;-8,55159461813357
+c_presid c_vladimir;-4,303099376084211
+Word;Coefficient
+c__ c__;-8,555451903533328
+c_ambul;-4,1487326562690745
+c__ c__ c_pic;-8,555451903533328
+c_avast;-4,173425268859447
+c__ c__ c_pic c_twitter;-8,555451903533328
+c_rais c_interest;-4,211646481679644
+c__ c_also;-8,555451903533328
+c_wan;-4,224718563246997
+c__ c_also c_come;-8,555451903533328
+c_patient c_data;-4,224718563246997
+c__ c_also c_come c_boon;-8,555451903533328
+c_turn c_away;-4,237963789997018
+c__ c_although;-8,555451903533328
+c_rais c_interest c_rate;-4,237963789997018
+c__ c_although c_play;-8,555451903533328
+c_hit c_ransomwar;-4,251386810329158
+c__ c_although c_play c_role;-8,555451903533328
+c_day c_price;-4,251386810329158
+c__ c_compani;-8,555451903533328
+c_benchmark c_year;-4,251386810329158
+Word;Coefficient
+c__ c__;-8,550241045462437
+c_nation c_cyber c_secur c_centr;-4,1075897889721205
+c__ c__ c_pic;-8,550241045462437
+c_cyber c_secur c_centr;-4,1075897889721205
+c__ c__ c_pic c_twitter;-8,550241045462437
+c_simon;-4,155791890789998
+c__ c_averag c_jhoo;-8,550241045462437
+c_avast;-4,155791890789998
+c__ c_averag c_jhoo c_dong;-8,550241045462437
+c_day c_price;-4,193532218772845
+c__ c_card;-8,550241045462437
+c_malwar c_spread;-4,219507705176106
+c__ c_card c_type;-8,550241045462437
+c_prime c_minist c_theresa c_may;-4,232752931926127
+c__ c_card c_type c_devic;-8,550241045462437
+c_prime c_minist c_theresa;-4,232752931926127
+c__ c_compani;-8,550241045462437
+c_minist c_theresa c_may;-4,232752931926127
+c__ c_compani c_gocopyright;-8,550241045462437
+c_minist c_theresa;-4,232752931926127
+Word;Coefficient
+c__ c_chicago;-8,536211197252
+t_russian;-4,166763344784978
+c__ c_chicago c_mercantil;-8,536211197252
+c_ambul;-4,166763344784978
+c__ c_chicago c_mercantil c_exchang;-8,536211197252
+c_avast;-4,205477856965668
+c__ c_compani;-8,536211197252
+c_wan;-4,218723083715689
+c__ c_compani c_gocopyright;-8,536211197252
+c_decryptor;-4,232146104047829
+c__ c_compani c_gocopyright c_associ;-8,536211197252
+c_later c_month;-4,245751756103608
+c__ c_cryptocurr;-8,536211197252
+c_comput c_countri;-4,245751756103608
+c__ c_cryptocurr c_thefuturea;-8,536211197252
+c_vladimir c_putin;-4,259545078235944
+c__ c_cryptocurr c_thefuturea c_post;-8,536211197252
+c_narrow;-4,259545078235944
+c__ c_curios;-8,536211197252
+c_wan c_na;-4,273531320210684
+Word;Coefficient
+c__ c_also;-8,559486103606488
+c_call c_shadow c_broker;-4,190038251139467
+c__ c_also c_come;-8,559486103606488
+c_call c_shadow;-4,190038251139467
+c__ c_also c_come c_boon;-8,559486103606488
+c_secur c_centr;-4,202777276916897
+c__ c_compani;-8,559486103606488
+c_launch c_futur;-4,202777276916897
+c__ c_compani c_gocopyright;-8,559486103606488
+c_day c_price;-4,202777276916897
+c__ c_compani c_gocopyright c_associ;-8,559486103606488
+c_cyber c_secur c_centr;-4,202777276916897
+c__ c_countri;-8,559486103606488
+c_avast;-4,202777276916897
+c__ c_countri c_unit;-8,559486103606488
+c_nation c_cyber c_secur c_centr;-4,215680681752804
+c__ c_countri c_unit c_state;-8,559486103606488
+c_wan;-4,228752763320157
+c__ c_g_dde;-8,559486103606488
+c_radar;-4,228752763320157

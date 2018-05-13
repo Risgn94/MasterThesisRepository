@@ -1,0 +1,99 @@
+Word;Coefficient
+c_orang c_new c_black;-0,23574600008223726
+c_financi c_servic c_compani;-0,20227146941901047
+c_list c_bitcoin c_futur;-0,18180585842933522
+t_crypto t_fool t_goldc_none;-0,18054897281966473
+c_hit c_time c_high;-0,17874544956047936
+c_maintain c_network c_comput c_internet;-0,1772928380640992
+c_display c_div c_gpt;-0,17719097102579315
+c_display c_div c_gpt c_ad;-0,17719097102579315
+c_function c_googletag c_display c_div;-0,17719097102579315
+c_googletag c_display c_div;-0,17719097102579315
+Word;Coefficient
+c_forward c_look c_inform;-0,26502369658909863
+c_social c_secur c_number;-0,23855310246038128
+c_crypto c_currenc c_bitcoin;-0,2180448928035279
+c_http c_photo c_prnewswir;-0,21376020227930917
+c_http c_photo c_prnewswir c_com;-0,21376020227930917
+c_photo c_prnewswir c_com;-0,21376020227930917
+c_price c_singl c_bitcoin;-0,21147082778099444
+c_photo c_prnewswir c_com c_prnh;-0,2104388509965782
+c_prnewswir c_com c_prnh;-0,2104388509965782
+c_tie c_bank c_govern;-0,21035528662535782
+Word;Coefficient
+c_link c_north c_korea;-0,23189121395608772
+c_http c_photo c_prnewswir;-0,2303630662203962
+c_http c_photo c_prnewswir c_com;-0,2303630662203962
+c_photo c_prnewswir c_com;-0,2303630662203962
+c_photo c_prnewswir c_com c_prnh;-0,22692935547809576
+c_prnewswir c_com c_prnh;-0,22692935547809576
+c_wisekey c_intern c_hold;-0,20475010412143194
+c_contract c_expir c_januari;-0,19123864106668925
+c_chavez c_dreyfuss c_edit;-0,18859771024609856
+c_gertrud c_chavez c_dreyfuss c_edit;-0,18859771024609856
+Word;Coefficient
+c_http c_tmsnrt c_rs;-0,22994050171825076
+c_technolog c_underpin c_bitcoin;-0,21648490610018917
+c_orang c_new c_black;-0,21432668391434817
+c_call c_paper c_open;-0,2069638453660637
+c_machin c_call c_paper;-0,2069638453660637
+c_machin c_call c_paper c_open;-0,2069638453660637
+c_master c_machin c_call;-0,2069638453660637
+c_master c_machin c_call c_paper;-0,2069638453660637
+c_mind c_master c_machin;-0,2069638453660637
+c_mind c_master c_machin c_call;-0,2069638453660637
+Word;Coefficient
+c_bitcoin c_invest c_trust;-0,24532935935128786
+c_tie c_bank c_govern;-0,21849586611602564
+c_wisekey c_intern c_hold;-0,2089057327469755
+c_orang c_new c_black;-0,2075176710473318
+c_link c_north c_korea;-0,20607346536215201
+c_financi c_servic c_compani;-0,2060369171397706
+c_http c_photo c_prnewswir;-0,20525493142069923
+c_http c_photo c_prnewswir c_com;-0,20525493142069923
+c_photo c_prnewswir c_com;-0,20525493142069923
+c_photo c_prnewswir c_com c_prnh;-0,20525493142069923
+Word;Coefficient
+c_hit c_time c_high;-0,23634145687990923
+c_contract c_expir c_januari;-0,227192541809562
+c_tie c_bank c_govern;-0,22572188593905465
+c_popular c_virtual c_currenc;-0,20966881740551777
+c_futur c_contract c_expir;-0,20260886720638938
+c_sinc c_begin c_year;-0,20174845827240154
+c_allow c_user c_spend;-0,19857491611589353
+c_futur c_contract c_expir c_januari;-0,1970915286316519
+c_http c_photo c_prnewswir;-0,1906009359471552
+c_http c_photo c_prnewswir c_com;-0,1906009359471552
+Word;Coefficient
+c_chavez c_dreyfuss c_edit;-0,20607824308275338
+c_gertrud c_chavez c_dreyfuss c_edit;-0,20607824308275338
+c_tie c_bank c_govern;-0,19793008220780145
+c_contract c_expir c_januari;-0,19513553980662407
+c_futur c_contract c_expir;-0,1831881641009018
+c_allow c_user c_spend;-0,1829161019828101
+c_wall c_street c_bank;-0,18218278827559198
+c_link c_north c_korea;-0,1803247250328792
+c_futur c_contract c_expir c_januari;-0,17806648397723462
+c_capit c_invest c_inc;-0,1764700392198515
+Word;Coefficient
+c_http c_photo c_prnewswir;-0,22067204997957401
+c_http c_photo c_prnewswir c_com;-0,22067204997957401
+c_photo c_prnewswir c_com;-0,22067204997957401
+c_digit c_asset c_hold;-0,21982359819091776
+c_photo c_prnewswir c_com c_prnh;-0,20934534634988267
+c_prnewswir c_com c_prnh;-0,20934534634988267
+c_financi c_servic c_firm;-0,20570106729210086
+c_past c_two c_year;-0,20281039651412122
+c_digit c_currenc c_group;-0,1981458227606992
+c_dark c_web c_marketplac;-0,1965025877394569
+Word;Coefficient
+c_http c_photo c_prnewswir;-0,24593417576073015
+c_http c_photo c_prnewswir c_com;-0,24593417576073015
+c_photo c_prnewswir c_com;-0,24593417576073015
+c_photo c_prnewswir c_com c_prnh;-0,24593417576073015
+c_prnewswir c_com c_prnh;-0,24593417576073015
+c_orang c_new c_black;-0,22717927841973706
+c_report c_jemima c_kelli c_edit;-0,22357702253136855
+c_new c_record c_high;-0,22272824204099193
+c_popular c_virtual c_currenc;-0,22023558792958906
+c_digit c_asset c_hold;-0,21372240750867688

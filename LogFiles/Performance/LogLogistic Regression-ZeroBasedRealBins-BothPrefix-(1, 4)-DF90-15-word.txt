@@ -1,0 +1,59 @@
+Confusion matrix and classification report for 0 cross validation in 0 repeat 
+[[167  79  29  23]
+ [ 58 142  23  28]
+ [ 53  96  70  21]
+ [ 49  56  19  86]]
+Confusion matrix and classification report for 1 cross validation in 0 repeat 
+[[142  76  34  21]
+ [ 71 170  20  20]
+ [ 73  64  73  17]
+ [ 39  73  17  89]]
+Confusion matrix and classification report for 2 cross validation in 0 repeat 
+[[195  68  41  17]
+ [ 75 164  31  16]
+ [ 71  34  77  14]
+ [ 46  58  21  71]]
+Confusion matrix and classification report for 0 cross validation in 1 repeat 
+[[143  79  36  18]
+ [ 65 159  34  28]
+ [ 71  72  67  24]
+ [ 34  68  13  88]]
+Confusion matrix and classification report for 1 cross validation in 1 repeat 
+[[148  74  35  16]
+ [ 62 165  17  26]
+ [ 68  51  75  28]
+ [ 49  59  20 106]]
+Confusion matrix and classification report for 2 cross validation in 1 repeat 
+[[181  64  24  16]
+ [ 80 143  27  24]
+ [ 69  63  73  20]
+ [ 62  50  20  83]]
+Confusion matrix and classification report for 0 cross validation in 2 repeat 
+[[167  74  21  23]
+ [ 69 153  18  33]
+ [ 66  59  60  31]
+ [ 56  47  17 105]]
+Confusion matrix and classification report for 1 cross validation in 2 repeat 
+[[145 100  37   7]
+ [ 64 168  18  21]
+ [ 64  61  80  18]
+ [ 46  59  20  91]]
+Confusion matrix and classification report for 2 cross validation in 2 repeat 
+[[177  78  15  17]
+ [ 59 151  23  30]
+ [ 72  47  88  22]
+ [ 49  54  20  97]]
+Average precision for all repeats: 0.4979876073651221
+Standard Deviation for all repeats: 0.017912749799524123
+1. repeat precision score: 0.495657
+2. repeat precision score: 0.487914
+3. repeat precision score: 0.510392
+1. cross validation precision score: 0.481679
+2. cross validation precision score: 0.491560
+3. cross validation precision score: 0.513732
+4. cross validation precision score: 0.464445
+5. cross validation precision score: 0.505913
+6. cross validation precision score: 0.493384
+7. cross validation precision score: 0.493644
+8. cross validation precision score: 0.507783
+9. cross validation precision score: 0.529748

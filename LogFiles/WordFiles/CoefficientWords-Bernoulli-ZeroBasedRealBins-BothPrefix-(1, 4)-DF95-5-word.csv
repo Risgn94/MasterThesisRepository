@@ -1,0 +1,189 @@
+Word;Coefficient
+c__ c_trumpvalu;-7,846589975291186
+c_justic c_minist;-3,996442373581128
+c__ c_trumpvalu c_villag;-7,846589975291186
+c_brad c_smith;-3,996442373581128
+c__ c_trumpvalu c_villag c_sue;-7,846589975291186
+c_op;-4,017948578802091
+c____ c_expert;-7,846589975291186
+c_jon;-4,017948578802091
+c____ c_expert c_global;-7,846589975291186
+c_investor c_make;-4,017948578802091
+c____ c_expert c_global c_financi;-7,846589975291186
+c_ethic;-4,017948578802091
+c____ c_german;-7,846589975291186
+c_first c_ever;-4,062400341372925
+c____ c_german c_busi;-7,846589975291186
+c_passion;-4,085389859597624
+c____ c_german c_busi c_leader;-7,846589975291186
+c_said c_u;-4,108920357007818
+c____ c_indian c_prime;-7,846589975291186
+c_said c_sunday;-4,108920357007818
+Word;Coefficient
+c__ c_endurescopyright;-7,813995675002791
+c_justic c_minist;-3,7196511127806904
+c__ c_endurescopyright c_associ;-7,813995675002791
+c_brad c_smith;-4,007333185232471
+c__ c_endurescopyright c_associ c_press;-7,813995675002791
+c_inform c_secur;-4,02980604108453
+c__ c_pic;-7,813995675002791
+c_futur c_price;-4,02980604108453
+c__ c_pic c_twitter;-7,813995675002791
+c_ring;-4,052795559309228
+c__ c_pic c_twitter c_com;-7,813995675002791
+c_jon;-4,076326056719422
+c__ c_trumpvalu;-7,813995675002791
+c_plan c_ban;-4,100423608298483
+c__ c_trumpvalu c_villag;-7,813995675002791
+t_plan;-4,125116220888854
+c__ c_trumpvalu c_villag c_sue;-7,813995675002791
+c_name c_satoshi c_nakamoto;-4,125116220888854
+c____ c_expert;-7,813995675002791
+c_lisa;-4,125116220888854
+Word;Coefficient
+c__ c_https;-7,837554360881084
+c_brad c_smith;-3,9874067591710256
+c__ c_https c_co;-7,837554360881084
+c_justic c_minist;-4,053364726962823
+c__ c_trumpvalu;-7,837554360881084
+c_craig c_wright;-4,053364726962823
+c__ c_trumpvalu c_villag;-7,837554360881084
+c_blockchain c_distribut c_ledger;-4,053364726962823
+c__ c_trumpvalu c_villag c_sue;-7,837554360881084
+c_bitcoin c_allow;-4,099884742597716
+c____ c_expert;-7,837554360881084
+c_said c_sunday;-4,123982294176776
+c____ c_expert c_global;-7,837554360881084
+c_ring;-4,123982294176776
+c____ c_expert c_global c_financi;-7,837554360881084
+c_public c_privat;-4,123982294176776
+c____ c_german;-7,837554360881084
+c_one c_time;-4,148674906767148
+c____ c_german c_busi;-7,837554360881084
+c_currenc c_price;-4,148674906767148
+Word;Coefficient
+c__ c_endurescopyright;-7,817222785508166
+c_thrill;-3,988581389019071
+c__ c_endurescopyright c_associ;-7,817222785508166
+c_jon;-3,988581389019071
+c__ c_endurescopyright c_associ c_press;-7,817222785508166
+c_ring;-4,010560295737847
+c____ c_expert;-7,817222785508166
+c_payout;-4,033033151589905
+c____ c_expert c_global;-7,817222785508166
+c_inform c_secur;-4,079553167224798
+c____ c_expert c_global c_financi;-7,817222785508166
+c_cach;-4,079553167224798
+c____ c_german;-7,817222785508166
+c_brad c_smith;-4,079553167224798
+c____ c_german c_busi;-7,817222785508166
+c_told c_bbc;-4,103650718803858
+c____ c_german c_busi c_leader;-7,817222785508166
+c_technolog c_behind c_bitcoin;-4,103650718803858
+c____ c_indian c_prime;-7,817222785508166
+c_oper c_offic;-4,103650718803858
+Word;Coefficient
+c__ c_endurescopyright;-7,813995675002791
+c_justic c_minist;-3,8250116284385163
+c__ c_endurescopyright c_associ;-7,813995675002791
+c_presid c_vladimir;-4,052795559309228
+c__ c_endurescopyright c_associ c_press;-7,813995675002791
+c_brad c_smith;-4,076326056719422
+c__ c_pic;-7,813995675002791
+c_tech c_savvi;-4,100423608298483
+c__ c_pic c_twitter;-7,813995675002791
+c_presid c_vladimir c_putin;-4,125116220888854
+c__ c_pic c_twitter c_com;-7,813995675002791
+c_intrus;-4,125116220888854
+c__ c_trumpvalu;-7,813995675002791
+c_sim;-4,1504340288731445
+c__ c_trumpvalu c_villag;-7,813995675002791
+c_portal;-4,1504340288731445
+c__ c_trumpvalu c_villag c_sue;-7,813995675002791
+c_plan c_ban;-4,176409515276405
+c___;-7,813995675002791
+c_korean c_exchang;-4,176409515276405
+Word;Coefficient
+c__ c_trumpvalu;-7,864419904994565
+c_brad c_smith;-3,8941279914424434
+c__ c_trumpvalu c_villag;-7,864419904994565
+c_justic c_minist;-3,993218894086674
+c__ c_trumpvalu c_villag c_sue;-7,864419904994565
+c_financi c_instrument;-4,057757415224246
+c____ c_expert;-7,864419904994565
+c_said c_sunday;-4,080230271076305
+c____ c_expert c_global;-7,864419904994565
+c_investor c_make;-4,080230271076305
+c____ c_expert c_global c_financi;-7,864419904994565
+c_internet c_secur;-4,1032197893010025
+c____ c_german;-7,864419904994565
+c_immigr;-4,1032197893010025
+c____ c_german c_busi;-7,864419904994565
+t_australian;-4,1267502867111965
+c____ c_german c_busi c_leader;-7,864419904994565
+c_chicago c_board c_option c_exchang;-4,150847838290257
+c____ c_indian c_prime;-7,864419904994565
+c_chicago c_board c_option;-4,150847838290257
+Word;Coefficient
+c__ c_https;-7,848933726364071
+c_justic c_minist;-3,8976900077826433
+c__ c_https c_co;-7,848933726364071
+c_ring;-4,020292329874976
+c__ c_trumpvalu;-7,848933726364071
+c_thrill;-4,06474409244581
+c__ c_trumpvalu c_villag;-7,848933726364071
+c_har;-4,06474409244581
+c__ c_trumpvalu c_villag c_sue;-7,848933726364071
+c_inventor;-4,087733610670508
+c____ c_p c_hacker;-7,848933726364071
+c_intrus;-4,087733610670508
+c____ c_p c_hospit;-7,848933726364071
+t_look;-4,111264108080702
+c____ c_p c_secur;-7,848933726364071
+c_rogu;-4,111264108080702
+c____ c_p c_secur c_expert;-7,848933726364071
+c_jon;-4,111264108080702
+c____ c_stock c_market;-7,848933726364071
+c_first c_ever;-4,111264108080702
+Word;Coefficient
+c____ c_expert;-7,826044013518965
+c_justic c_minist;-3,9342237154083386
+c____ c_expert c_global;-7,826044013518965
+c_transfer c_fund;-3,9758964118089066
+c____ c_expert c_global c_financi;-7,826044013518965
+c_brad c_smith;-4,064843897825403
+c____ c_german;-7,826044013518965
+t_base;-4,088374395235597
+c____ c_german c_busi;-7,826044013518965
+c_maintain c_network c_comput;-4,088374395235597
+c____ c_german c_busi c_leader;-7,826044013518965
+c_inbox;-4,088374395235597
+c____ c_indian c_prime;-7,826044013518965
+c_year c_prison;-4,112471946814657
+c____ c_indian c_prime c_minist;-7,826044013518965
+c_told c_bbc;-4,137164559405029
+c____ c_p c_britain;-7,826044013518965
+c_technolog c_underpin c_bitcoin;-4,137164559405029
+c____ c_p c_britain c_nation;-7,826044013518965
+c_chicago c_board c_option;-4,137164559405029
+Word;Coefficient
+c____ c_p c_britain;-7,8336002236611035
+c_justic c_minist;-3,941779925550477
+c____ c_p c_britain c_nation;-7,8336002236611035
+c_jon;-3,9623992127532124
+c____ c_p c_british;-7,8336002236611035
+c_passion;-4,049410589742843
+c____ c_p c_british c_prime;-7,8336002236611035
+c_justic c_depart;-4,072400107967541
+c____ c_p c_cyberattack;-7,8336002236611035
+c_singapor c_base;-4,095930605377735
+c____ c_p c_cyberattack c_forc;-7,8336002236611035
+c_feet;-4,095930605377735
+c____ c_p c_franc;-7,8336002236611035
+c_said c_sunday;-4,120028156956796
+c____ c_p c_franc c_govern;-7,8336002236611035
+c_investor c_make;-4,120028156956796
+c____ c_p c_german;-7,8336002236611035
+c_exchang c_cboe;-4,120028156956796
+c____ c_p c_german c_compani;-7,8336002236611035
+c_inventor;-4,144720769547167

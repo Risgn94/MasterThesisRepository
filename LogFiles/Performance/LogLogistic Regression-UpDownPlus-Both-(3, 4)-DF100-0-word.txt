@@ -1,0 +1,41 @@
+Confusion matrix and classification report for 0 cross validation in 0 repeat 
+[[167 284]
+ [ 27 521]]
+Confusion matrix and classification report for 1 cross validation in 0 repeat 
+[[157 291]
+ [ 42 509]]
+Confusion matrix and classification report for 2 cross validation in 0 repeat 
+[[164 273]
+ [ 51 511]]
+Confusion matrix and classification report for 0 cross validation in 1 repeat 
+[[177 269]
+ [ 55 498]]
+Confusion matrix and classification report for 1 cross validation in 1 repeat 
+[[175 282]
+ [ 42 500]]
+Confusion matrix and classification report for 2 cross validation in 1 repeat 
+[[172 251]
+ [ 47 529]]
+Confusion matrix and classification report for 0 cross validation in 2 repeat 
+[[184 294]
+ [ 33 488]]
+Confusion matrix and classification report for 1 cross validation in 2 repeat 
+[[180 270]
+ [ 45 504]]
+Confusion matrix and classification report for 2 cross validation in 2 repeat 
+[[155 303]
+ [ 34 507]]
+Average precision for all repeats: 0.7169394887465598
+Standard Deviation for all repeats: 0.01365203338514134
+1. repeat precision score: 0.716238
+2. repeat precision score: 0.713140
+3. repeat precision score: 0.721440
+1. cross validation precision score: 0.743644
+2. cross validation precision score: 0.704726
+3. cross validation precision score: 0.700343
+4. cross validation precision score: 0.700021
+5. cross validation precision score: 0.715812
+6. cross validation precision score: 0.723589
+7. cross validation precision score: 0.731165
+8. cross validation precision score: 0.718207
+9. cross validation precision score: 0.714949

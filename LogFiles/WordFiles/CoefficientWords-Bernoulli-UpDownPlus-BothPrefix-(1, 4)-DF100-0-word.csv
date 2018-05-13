@@ -1,0 +1,189 @@
+Word;Coefficient
+c__ c_although;-8,516793111394898
+c_petro;-4,2263336702465075
+c__ c_although c_play;-8,516793111394898
+c_dog;-4,2263336702465075
+c__ c_although c_play c_role;-8,516793111394898
+c_remedi;-4,254113234353583
+c__ c_cannabis_cultur;-8,516793111394898
+c_bulk;-4,254113234353583
+c__ c_cannabis_cultur c_investoridea;-8,516793111394898
+c_penetr;-4,268297869345539
+c__ c_cannabis_cultur c_investoridea c_com;-8,516793111394898
+c_global c_growth;-4,282686606797639
+c__ c_compani;-8,516793111394898
+t_surg;-4,2972854062187915
+c__ c_compani c_gocopyright;-8,516793111394898
+c_user c_file;-4,2972854062187915
+c__ c_compani c_gocopyright c_associ;-8,516793111394898
+c_u c_nation;-4,2972854062187915
+c__ c_endurescopyright;-8,516793111394898
+c_depart c_homeland c_secur;-4,2972854062187915
+Word;Coefficient
+c__ c__;-8,525359754082631
+c_petya;-4,155911901615609
+c__ c__ c_pic;-8,525359754082631
+c_penetr;-4,207871640546321
+c__ c__ c_pic c_twitter;-8,525359754082631
+c_suiss;-4,23490031293424
+c__ c_column;-8,525359754082631
+c_foster;-4,248693635066576
+c__ c_column c_necessarili;-8,525359754082631
+t_rais;-4,2626798770413155
+c__ c_column c_necessarili c_reflect;-8,525359754082631
+c_investor c_bet;-4,2626798770413155
+c__ c_compani;-8,525359754082631
+c_surg c_past;-4,276864512033272
+c__ c_compani c_gocopyright;-8,525359754082631
+c_later c_month;-4,276864512033272
+c__ c_compani c_gocopyright c_associ;-8,525359754082631
+c_moller c_maersk;-4,291253249485371
+c__ c_endurescopyright;-8,525359754082631
+c_moller;-4,291253249485371
+Word;Coefficient
+c__ c__;-8,496786381638575
+c_moller;-4,140077554948983
+c__ c__ c_mir_btc;-8,496786381638575
+c_moller c_maersk;-4,166053041352244
+c__ c__ c_mir_btc c_decemb;-8,496786381638575
+c_etern;-4,179298268102265
+c__ c_averag;-8,496786381638575
+c_danish;-4,206326940490184
+c__ c_averag c_jhoo;-8,496786381638575
+c_week c_gain;-4,22012026262252
+c__ c_averag c_jhoo c_dong;-8,496786381638575
+c_exchang c_cboe;-4,22012026262252
+c__ c_bithumb;-8,496786381638575
+c_user c_pay;-4,2626798770413155
+c__ c_bithumb c_coinon;-8,496786381638575
+c_shrug;-4,2626798770413155
+c__ c_bithumb c_coinon c_korbit;-8,496786381638575
+c_merck;-4,2626798770413155
+c__ c_chicago;-8,496786381638575
+c_launch c_futur;-4,2626798770413155
+Word;Coefficient
+c__ c__;-8,51197962436335
+c_investor c_bet;-4,155270797673759
+c__ c__ c_mir_btc;-8,51197962436335
+c_exchang c_cboe;-4,22152018321496
+c__ c__ c_mir_btc c_decemb;-8,51197962436335
+c_rise c_fall;-4,249299747322035
+c__ c__ c_pic;-8,51197962436335
+c_petya;-4,263484382313991
+c__ c__ c_pic c_twitter;-8,51197962436335
+c_thailand;-4,277873119766091
+c__ c_although;-8,51197962436335
+c_pennsylvania;-4,277873119766091
+c__ c_although c_play;-8,51197962436335
+c_pay c_bitcoin;-4,277873119766091
+c__ c_although c_play c_role;-8,51197962436335
+c_late c_friday;-4,277873119766091
+c__ c_cannabis_cultur;-8,51197962436335
+c_bitcoin c_compani;-4,277873119766091
+c__ c_cannabis_cultur c_investoridea;-8,51197962436335
+t_surg;-4,292471919187244
+Word;Coefficient
+c__ c__;-8,532475814947395
+c_remedi;-4,163027962480373
+c__ c__ c_mir_btc;-8,532475814947395
+c_rage;-4,175766988257803
+c__ c__ c_mir_btc c_decemb;-8,532475814947395
+c_petya;-4,242016373799004
+c__ c_along;-8,532475814947395
+c_depart c_homeland c_secur;-4,255809695931339
+c__ c_along c_support;-8,532475814947395
+c_depart c_homeland;-4,255809695931339
+c__ c_along c_support c_vulkan;-8,532475814947395
+c_week c_gain;-4,283980572898035
+c__ c_among;-8,532475814947395
+c_spotlight;-4,283980572898035
+c__ c_among c_australia;-8,532475814947395
+c_scienc c_capit c_market c_confer;-4,283980572898035
+c__ c_among c_australia c_japan;-8,532475814947395
+c_scienc c_capit c_market;-4,283980572898035
+c__ c_chicago;-8,532475814947395
+c_scienc c_capit;-4,283980572898035
+Word;Coefficient
+c__ c_averag c_jhoo;-8,496582237512113
+c_remedi;-4,233902360470798
+c__ c_averag c_jhoo c_dong;-8,496582237512113
+c_larg c_amount;-4,233902360470798
+c__ c_column;-8,496582237512113
+c_ad c_point;-4,233902360470798
+c__ c_column c_necessarili;-8,496582237512113
+t_offer;-4,248086995462754
+c__ c_column c_necessarili c_reflect;-8,496582237512113
+c_danish;-4,248086995462754
+c__ c_compani;-8,496582237512113
+c_tyler c_winklevoss;-4,2624757329148535
+c__ c_compani c_gocopyright;-8,496582237512113
+c_global c_growth;-4,2624757329148535
+c__ c_compani c_gocopyright c_associ;-8,496582237512113
+c_eager;-4,2624757329148535
+c__ c_endurescopyright;-8,496582237512113
+c_sinc c_launch;-4,291889618121147
+c__ c_endurescopyright c_associ;-8,496582237512113
+c_petro;-4,291889618121147
+Word;Coefficient
+c__ c__;-8,507546814364431
+c_petya;-4,12552017969055
+c__ c__ c_mir_btc;-8,507546814364431
+t_surg;-4,190058700828121
+c__ c__ c_mir_btc c_decemb;-8,507546814364431
+c_expir;-4,190058700828121
+c__ c_along;-8,507546814364431
+c_etern;-4,190058700828121
+c__ c_along c_support;-8,507546814364431
+c_tyler c_winklevoss;-4,273440309767172
+c__ c_along c_support c_vulkan;-8,507546814364431
+c_shrug;-4,273440309767172
+c__ c_although;-8,507546814364431
+c_remedi;-4,2880391091883245
+c__ c_although c_play;-8,507546814364431
+c_highest c_sinc;-4,2880391091883245
+c__ c_although c_play c_role;-8,507546814364431
+c_decad c_ago;-4,2880391091883245
+c__ c_column;-8,507546814364431
+c_cyber c_secur c_expert;-4,2880391091883245
+Word;Coefficient
+c__ c__;-8,515191188745565
+c_foster;-4,252511311704249
+c__ c__ c_pic;-8,515191188745565
+c_investor c_bet;-4,281084684148305
+c__ c__ c_pic c_twitter;-8,515191188745565
+c_use c_money;-4,295683483569458
+c__ c_among;-8,515191188745565
+c_pension;-4,295683483569458
+c__ c_among c_australia;-8,515191188745565
+c_moller;-4,295683483569458
+c__ c_among c_australia c_japan;-8,515191188745565
+c_launch c_futur;-4,295683483569458
+c__ c_compani;-8,515191188745565
+c_year c_one;-4,310498569354599
+c__ c_compani c_gocopyright;-8,515191188745565
+c_us c_depart;-4,310498569354599
+c__ c_compani c_gocopyright c_associ;-8,515191188745565
+c_revolution;-4,310498569354599
+c__ c_endurescopyright;-8,515191188745565
+c_remedi;-4,310498569354599
+Word;Coefficient
+c__ c_averag c_jhoo;-8,507344855361422
+c_petya;-4,189856741825112
+c__ c_averag c_jhoo c_dong;-8,507344855361422
+c_stoxx;-4,203279762157252
+c__ c_breitwoman;-8,507344855361422
+c_petro;-4,203279762157252
+c__ c_breitwoman c_januari;-8,507344855361422
+c_moller;-4,216885414213031
+c__ c_breitwoman c_januari c_mani;-8,507344855361422
+c_week c_gain;-4,230678736345367
+c__ c_breitwoman c_septemb;-8,507344855361422
+c_moller c_maersk;-4,230678736345367
+c__ c_breitwoman c_septemb c_busi;-8,507344855361422
+c_turmoil;-4,258849613312063
+c__ c_compani;-8,507344855361422
+c_nicola;-4,258849613312063
+c__ c_compani c_gocopyright;-8,507344855361422
+c_compani c_work;-4,258849613312063
+c__ c_compani c_gocopyright c_associ;-8,507344855361422
+c_late c_friday;-4,287837150185315

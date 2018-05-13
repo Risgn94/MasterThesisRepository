@@ -1,0 +1,9 @@
+Confusion matrix and classification report for 0 cross validation in 0 repeat 
+[[663 108  48  28]
+ [387 423  27  39]
+ [289  50 264  28]
+ [269  61  26 289]]
+Average precision for all repeats: 0.622951402385
+Standard Deviation for all repeats: 0.0
+1. repeat precision score: 0.622951
+1. cross validation precision score: 0.622951

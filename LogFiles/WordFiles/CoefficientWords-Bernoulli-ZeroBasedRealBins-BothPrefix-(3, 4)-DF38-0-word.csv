@@ -1,0 +1,189 @@
+Word;Coefficient
+c__ c_although c_play;-7,83399634171
+c_offici c_spoke c_condit c_anonym;-4,61512051684
+c__ c_although c_play c_role;-7,83399634171
+c_offici c_spoke c_condit;-4,61512051684
+c__ c_among c_australia;-7,83399634171
+c_attack c_wake c_call;-4,65594251136
+c__ c_among c_australia c_japan;-7,83399634171
+c_investor c_make c_bet;-4,69850212578
+c__ c_anim c_fill;-7,83399634171
+c_futur c_allow c_investor;-4,69850212578
+c__ c_anim c_fill c_role;-7,83399634171
+c_cryptocurr c_trade c_exchang;-4,69850212578
+c__ c_approv c_rate;-7,83399634171
+c_beyond c_reason c_doubt;-4,69850212578
+c__ c_approv c_rate c_rare;-7,83399634171
+c_allow c_investor c_make c_bet;-4,69850212578
+c__ c_aspx c_eastern;-7,83399634171
+c_allow c_investor c_make;-4,69850212578
+c__ c_aspx c_eastern c_cfa;-7,83399634171
+c_transact c_maintain c_network c_comput;-4,74295388835
+Word;Coefficient
+c__ c__ c_mir_btc;-7,83161727635
+c_futur c_allow c_investor c_make;-4,49941276618
+c__ c__ c_mir_btc c_decemb;-7,83161727635
+c_make c_bet c_futur;-4,53578041035
+c__ c_adrien c_guinet;-7,83161727635
+c_investor c_make c_bet c_futur;-4,53578041035
+c__ c_adrien c_guinet c_matthieu;-7,83161727635
+c_score c_japan c_nikkei c_index;-4,57352073833
+c__ c_aspx c_eastern;-7,83161727635
+c_photo c_http c_photo c_prnewswir;-4,61274145148
+c__ c_aspx c_eastern c_cfa;-7,83161727635
+c_photo c_http c_photo;-4,61274145148
+c__ c_breitwoman c_januari;-7,83161727635
+c_make c_bet c_futur c_price;-4,653563446
+c__ c_breitwoman c_januari c_mani;-7,83161727635
+c_close c_per c_barrel;-4,69612306042
+c__ c_breitwoman c_septemb;-7,83161727635
+c_percent c_franc c_cac;-4,74057482299
+c__ c_breitwoman c_septemb c_busi;-7,83161727635
+c_entrepreneur c_craig c_wright;-4,74057482299
+Word;Coefficient
+c__ c__ c_pic;-7,82883452759
+c_allow c_investor c_make;-4,57073798957
+c__ c__ c_pic c_twitter;-7,82883452759
+c_futur c_contract c_expir;-4,65078069724
+c__ c_averag c_decis;-7,82883452759
+c_futur c_cash c_settl;-4,65078069724
+c__ c_averag c_decis c_led;-7,82883452759
+c_minist c_kim c_dong c_yeon;-4,69334031166
+c__ c_bithumb c_coinon;-7,82883452759
+c_minist c_kim c_dong;-4,69334031166
+c__ c_bithumb c_coinon c_korbit;-7,82883452759
+c_investor c_make c_bet;-4,69334031166
+c__ c_breitwoman c_januari;-7,82883452759
+c_cash c_settl c_contract;-4,69334031166
+c__ c_breitwoman c_januari c_mani;-7,82883452759
+c_bitcoin c_u c_dollar;-4,69334031166
+c__ c_breitwoman c_septemb;-7,82883452759
+c_allow c_investor c_make c_bet;-4,69334031166
+c__ c_breitwoman c_septemb c_busi;-7,82883452759
+c_allow c_investor c_bet;-4,69334031166
+Word;Coefficient
+c__ c__ c_mir_btc;-7,82444593088
+c_investor c_make c_bet;-4,4922414207
+c__ c__ c_mir_btc c_decemb;-7,82444593088
+c_allow c_investor c_make c_bet;-4,4922414207
+c__ c_adrien c_guinet;-7,82444593088
+c_futur c_contract c_expir;-4,56634939286
+c__ c_adrien c_guinet c_matthieu;-7,82444593088
+c_contract c_expir c_januari;-4,56634939286
+c__ c_anim c_fill;-7,82444593088
+c_park c_sang c_ki;-4,60557010601
+c__ c_anim c_fill c_role;-7,82444593088
+c_make c_bet c_futur;-4,60557010601
+c__ c_aspx c_eastern;-7,82444593088
+c_investor c_make c_bet c_futur;-4,60557010601
+c__ c_aspx c_eastern c_cfa;-7,82444593088
+c_bet c_futur c_price;-4,64639210053
+c__ c_breitwoman c_januari;-7,82444593088
+c_futur c_contract c_expir c_januari;-4,68895171495
+c__ c_breitwoman c_januari c_mani;-7,82444593088
+c_futur c_allow c_investor c_make;-4,68895171495
+Word;Coefficient
+c__ c__ c_mir_btc;-7,85205020727
+c_bitcoin c_worth c_million;-4,6331743824
+c__ c__ c_mir_btc c_decemb;-7,85205020727
+c_track c_site c_coindesk c_bitcoin;-4,71655599134
+c__ c__ c_pic;-7,85205020727
+c_site c_coindesk c_bitcoin c_futur;-4,71655599134
+c__ c__ c_pic c_twitter;-7,85205020727
+c_site c_coindesk c_bitcoin;-4,71655599134
+c__ c_although c_play;-7,85205020727
+c_coindesk c_bitcoin c_futur c_cboe;-4,71655599134
+c__ c_although c_play c_role;-7,85205020727
+c_coindesk c_bitcoin c_futur;-4,71655599134
+c__ c_aspx c_eastern;-7,85205020727
+c_allow c_investor c_make c_bet;-4,71655599134
+c__ c_aspx c_eastern c_cfa;-7,85205020727
+c_exchang c_digit c_currenc;-4,76100775391
+c__ c_averag c_decis;-7,85205020727
+c_fortress c_invest c_group;-4,80752776954
+c__ c_averag c_decis c_led;-7,85205020727
+c_score c_japan c_nikkei c_index;-4,85631793371
+Word;Coefficient
+c__ c_also c_come;-7,83241092719
+c_track c_site c_coindesk c_bitcoin;-4,57431438917
+c__ c_also c_come c_boon;-7,83241092719
+c_site c_coindesk c_bitcoin c_futur;-4,57431438917
+c__ c_among c_australia;-7,83241092719
+c_investor c_make c_bet;-4,57431438917
+c__ c_among c_australia c_japan;-7,83241092719
+c_futur c_contract c_expir;-4,57431438917
+c__ c_approv c_rate;-7,83241092719
+c_crude c_oil c_price;-4,57431438917
+c__ c_approv c_rate c_rare;-7,83241092719
+c_coindesk c_bitcoin c_futur c_cboe;-4,57431438917
+c__ c_aspx c_eastern;-7,83241092719
+c_coindesk c_bitcoin c_futur;-4,57431438917
+c__ c_aspx c_eastern c_cfa;-7,83241092719
+c_allow c_investor c_make c_bet;-4,57431438917
+c__ c_averag c_decis;-7,83241092719
+c_regard c_virtual c_currenc;-4,61353510232
+c__ c_averag c_decis c_led;-7,83241092719
+c_paralyz c_comput c_run;-4,61353510232
+Word;Coefficient
+c__ c__ c_mir_btc;-7,84267147498
+c_minist c_park c_sang c_ki;-4,54683460898
+c__ c__ c_mir_btc c_decemb;-7,84267147498
+c_minist c_park c_sang;-4,54683460898
+c__ c_although c_play;-7,84267147498
+c_justic c_minist c_park c_sang;-4,54683460898
+c__ c_although c_play c_role;-7,84267147498
+c_justic c_minist c_park;-4,54683460898
+c__ c_among c_australia;-7,84267147498
+c_attack c_wake c_call;-4,62379565011
+c__ c_among c_australia c_japan;-7,84267147498
+c_futur c_contract c_expir;-4,66461764463
+c__ c_aspx c_eastern;-7,84267147498
+c_blog c_post c_sunday;-4,66461764463
+c__ c_aspx c_eastern c_cfa;-7,84267147498
+c_beyond c_reason c_doubt;-4,66461764463
+c__ c_averag c_decis;-7,84267147498
+c_offici c_spoke c_condit c_anonym;-4,70717725905
+c__ c_averag c_decis c_led;-7,84267147498
+c_offici c_spoke c_condit;-4,70717725905
+Word;Coefficient
+c__ c__ c_mir_btc;-7,8461988155
+c_allow c_investor c_make;-4,55036194949
+c__ c__ c_mir_btc c_decemb;-7,8461988155
+c_investor c_make c_bet;-4,58810227748
+c__ c_adrien c_guinet;-7,8461988155
+c_allow c_investor c_make c_bet;-4,58810227748
+c__ c_adrien c_guinet c_matthieu;-7,8461988155
+c_offici c_spoke c_condit c_anonym;-4,66814498515
+c__ c_anim c_fill;-7,8461988155
+c_offici c_spoke c_condit;-4,66814498515
+c__ c_anim c_fill c_role;-7,8461988155
+c_futur c_allow c_investor c_make;-4,66814498515
+c__ c_approv c_rate;-7,8461988155
+c_percent c_shanghai c_composit c_index;-4,75515636214
+c__ c_approv c_rate c_rare;-7,8461988155
+c_park c_sang c_ki;-4,75515636214
+c__ c_aspx c_eastern;-7,8461988155
+c_minist c_kim c_dong c_yeon;-4,75515636214
+c__ c_aspx c_eastern c_cfa;-7,8461988155
+c_minist c_kim c_dong;-4,75515636214
+Word;Coefficient
+c__ c_aspx c_eastern;-7,82604401352
+c_futur c_allow c_investor c_make;-4,64799018317
+c__ c_aspx c_eastern c_cfa;-7,82604401352
+c_score c_japan c_nikkei;-4,69054979759
+c__ c_briefli c_pass;-7,82604401352
+c_futur c_contract c_expir;-4,69054979759
+c__ c_briefli c_pass c_general;-7,82604401352
+c_percent c_franc c_cac;-4,73500156016
+c__ c_card c_type;-7,82604401352
+c_make c_bet c_futur c_price;-4,73500156016
+c__ c_card c_type c_devic;-7,82604401352
+c_contract c_expir c_januari;-4,73500156016
+c__ c_column c_necessarili;-7,82604401352
+c_cash c_settl c_contract;-4,73500156016
+c__ c_column c_necessarili c_reflect;-7,82604401352
+c_score c_japan c_nikkei c_index;-4,7815215758
+c__ c_cryptocurr c_thefuturea;-7,82604401352
+c_futur c_cash c_settl;-4,7815215758
+c__ c_cryptocurr c_thefuturea c_post;-7,82604401352
+c_virtual c_currenc c_entrepreneur;-4,83031173996

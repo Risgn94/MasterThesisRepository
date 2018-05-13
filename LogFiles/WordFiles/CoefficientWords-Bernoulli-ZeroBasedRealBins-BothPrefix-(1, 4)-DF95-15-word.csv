@@ -1,0 +1,189 @@
+Word;Coefficient
+c____ c_p c_secur;-7,829232537543592
+c_justic c_minist;-3,8779888189621645
+c_____ap;-7,829232537543592
+c_craig c_wright;-3,8779888189621645
+c_abandon c_bitcoin;-7,829232537543592
+c_brad c_smith;-3,917209532115446
+c_abc c_news;-7,829232537543592
+c_chicago c_board c_option c_exchang;-4,000591141054497
+c_abduct;-7,829232537543592
+c_board c_option c_exchang;-4,000591141054497
+c_accept c_among c_tradit;-7,829232537543592
+c_jon;-4,0450429036253315
+c_accept c_among c_tradit c_investor;-7,829232537543592
+c_inform c_secur;-4,068032421850029
+c_accept c_credit c_card;-7,829232537543592
+c_told c_bbc;-4,091562919260223
+c_access c_compromis;-7,829232537543592
+c_op;-4,091562919260223
+c_accord c_blockchain c_info;-7,829232537543592
+c_late c_monday;-4,091562919260223
+Word;Coefficient
+c_____ap c_market;-7,854381210652365
+c_craig c_wright;-3,8653971640880904
+c_____ap c_market c_writer;-7,854381210652365
+c_said c_sunday;-3,983180199744474
+c_____ap c_market c_writer c_marley;-7,854381210652365
+c_justic c_minist;-3,983180199744474
+c_acceler c_growth;-7,854381210652365
+c_brad c_smith;-4,0042336089423065
+c_accept c_among c_tradit;-7,854381210652365
+c_jon;-4,047718720882045
+c_accept c_among c_tradit c_investor;-7,854381210652365
+c_craft;-4,0701915767341035
+c_accord c_state;-7,854381210652365
+c_compani c_work;-4,0701915767341035
+c_account c_central;-7,854381210652365
+c_futur c_price;-4,093181094958803
+c_accus c_insid;-7,854381210652365
+c_feet;-4,093181094958803
+c_accus c_insid c_trade;-7,854381210652365
+t_base;-4,116711592368997
+Word;Coefficient
+c_abil c_record;-7,813187267521416
+c_transact c_record;-4,028997633603154
+c_access c_case;-7,813187267521416
+c_ring;-4,051987151827854
+c_access c_case c_compromis;-7,813187267521416
+c_islam;-4,075517649238048
+c_access c_case c_compromis c_repres;-7,813187267521416
+c_concern c_bitcoin;-4,099615200817108
+c_accident c_regist;-7,813187267521416
+c_brad c_smith;-4,099615200817108
+c_accident c_regist c_domain;-7,813187267521416
+c_justic c_minist;-4,12430781340748
+c_accident c_regist c_domain c_name;-7,813187267521416
+c_craig c_wright;-4,12430781340748
+c_accord c_kasperski c_lab;-7,813187267521416
+c_conspiraci;-4,12430781340748
+c_account c_central;-7,813187267521416
+c_vladimir c_putin;-4,1496256213917695
+c_account c_central c_bank;-7,813187267521416
+c_hacker c_stole;-4,1496256213917695
+Word;Coefficient
+c_abc c_news;-7,835579246669965
+c_craig c_wright;-3,884335528088538
+c_abduct;-7,835579246669965
+c_brad c_smith;-3,884335528088538
+c_accept c_said;-7,835579246669965
+c_jon;-3,985431644959907
+c_access c_case;-7,835579246669965
+c_justic c_minist;-4,028916756899646
+c_accord c_blockchain c_info;-7,835579246669965
+c_content c_issu;-4,0743791309764035
+c_accord c_coinmarketcap c_bitcoin;-7,835579246669965
+c_op;-4,0979096283865974
+c_accord c_public;-7,835579246669965
+c_craft;-4,0979096283865974
+c_accord c_state;-7,835579246669965
+c_bitcoin c_technolog;-4,0979096283865974
+c_account c_central;-7,835579246669965
+t_look;-4,1220071799656575
+c_accus c_insid;-7,835579246669965
+c_southeast c_asia;-4,14669979255603
+Word;Coefficient
+c_access c_case c_compromis;-7,832014180505469
+c_jon;-3,940193882394843
+c_accomplic;-7,832014180505469
+c_justic c_minist;-4,003372784016374
+c_accord c_latest;-7,832014180505469
+c_coindesk c_bitcoin;-4,047824546587208
+c_across c_britain;-7,832014180505469
+c_brad c_smith;-4,047824546587208
+c_across c_england;-7,832014180505469
+c_presid c_vladimir;-4,070814064811907
+c_activ c_major;-7,832014180505469
+c_presid c_vladimir c_putin;-4,094344562222101
+c_activ c_manag;-7,832014180505469
+c_secur c_advis;-4,118442113801161
+c_ad c_cent c_per;-7,832014180505469
+c_new c_blockchain;-4,118442113801161
+c_ad c_cent c_per c_barrel;-7,832014180505469
+c_intrus;-4,118442113801161
+c_ad c_detect;-7,832014180505469
+t_becom;-4,1431347263915335
+Word;Coefficient
+c____ c_p c_secur;-7,831220214604293
+c_craig c_wright;-3,8609283010521707
+c_____ap c_market;-7,831220214604293
+c_investor c_make;-4,002578818115198
+c_____ap c_market c_writer;-7,831220214604293
+c_said c_sunday;-4,024557724833973
+c_access c_compromis;-7,831220214604293
+c_offic c_said;-4,047030580686032
+c_accord c_autonom;-7,831220214604293
+c_brad c_smith;-4,047030580686032
+c_accord c_autonom c_next;-7,831220214604293
+c_interrupt;-4,07002009891073
+c_accord c_initi c_find c_research;-7,831220214604293
+c_intrus;-4,093550596320924
+c_accord c_media c_report;-7,831220214604293
+c_chief c_economist;-4,093550596320924
+c_account c_central;-7,831220214604293
+c_singapor c_base;-4,117648147899985
+c_accus c_insid;-7,831220214604293
+c_diamond;-4,117648147899985
+Word;Coefficient
+c_____ap c_market;-7,85243908535751
+c_justic c_minist;-3,920613452633184
+c_____ap c_market c_writer;-7,85243908535751
+c_craig c_wright;-3,9606187872468834
+c_access c_case;-7,85243908535751
+c_bank c_financi c_institut;-4,023797688868415
+c_access c_case c_compromis;-7,85243908535751
+c_blockchain c_distribut c_ledger;-4,068249451439248
+c_access c_case c_compromis c_repres;-7,85243908535751
+c_yahoo;-4,091238969663948
+c_accident c_regist;-7,85243908535751
+c_joe;-4,091238969663948
+c_accident c_regist c_domain;-7,85243908535751
+c_told c_bbc;-4,114769467074142
+c_accident c_regist c_domain c_name;-7,85243908535751
+c_research c_firm;-4,114769467074142
+c_accomplic;-7,85243908535751
+c_price c_digit c_currenc;-4,114769467074142
+c_acknowledg c_hit;-7,85243908535751
+c_presid c_vladimir c_putin;-4,138867018653202
+Word;Coefficient
+c_abc c_news;-7,831220214604293
+c_justic c_minist;-3,879976496022865
+c_abduct;-7,831220214604293
+c_brad c_smith;-3,981072612894234
+c_accept c_among c_tradit;-7,831220214604293
+c_system c_use;-4,07002009891073
+c_accept c_among c_tradit c_investor;-7,831220214604293
+c_ring;-4,07002009891073
+c_access c_victim;-7,831220214604293
+c_slower;-4,117648147899985
+c_accident c_regist;-7,831220214604293
+c_hour c_later;-4,117648147899985
+c_accident c_regist c_domain;-7,831220214604293
+c_content c_issu;-4,117648147899985
+c_accident c_regist c_domain c_name;-7,831220214604293
+t_base;-4,142340760490356
+c_accord c_blockchain;-7,831220214604293
+c_said c_u;-4,142340760490356
+c_accord c_blockchain c_info;-7,831220214604293
+c_plan c_ban;-4,142340760490356
+Word;Coefficient
+c_abhinav;-7,843064016692054
+c_brad c_smith;-3,872772103139932
+c_abhinav c_ramnarayan;-7,843064016692054
+c_chicago c_board;-3,931041011263908
+c_access c_case c_compromis;-7,843064016692054
+c_chicago c_board c_option c_exchang;-3,9512437185814275
+c_access c_compromis;-7,843064016692054
+c_chicago c_board c_option;-3,9512437185814275
+c_access c_compromis c_germani;-7,843064016692054
+c_board c_option c_exchang;-3,9512437185814275
+c_access c_compromis c_germani c_rail;-7,843064016692054
+c_board c_option;-3,9512437185814275
+c_access c_system c_sever;-7,843064016692054
+c_jon;-4,036401526921734
+c_access c_system c_sever c_hospit;-7,843064016692054
+c_iot;-4,0588743827737925
+c_accid c_emerg;-7,843064016692054
+c_op;-4,081863900998492
+c_accord c_coinbas;-7,843064016692054
+c_justic c_minist;-4,081863900998492

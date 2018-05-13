@@ -1,0 +1,189 @@
+Word;Coefficient
+c____ c_p c_secur;-11,02564952010035
+c_hbo;-8,44167459725045
+c_____ap c_market;-11,02564952010035
+c_huobi;-8,838033502526752
+c_____ap c_market c_writer;-11,02564952010035
+c_darknet;-8,918383350571109
+c_abduct;-11,02564952010035
+c_bithumb;-9,034022478140903
+c_abhinav;-11,02564952010035
+c_tether;-9,059327588687207
+c_access c_compromis;-11,02564952010035
+c_prosecutor c_said;-9,060214096167673
+c_access c_patient;-11,02564952010035
+c_mcafe;-9,10796414771528
+c_accid c_emerg;-11,02564952010035
+c_pboc;-9,13416513779036
+c_accident c_regist;-11,02564952010035
+c_maduro;-9,145557552699849
+c_accident c_regist c_domain;-11,02564952010035
+c_vinnik;-9,146958971573293
+Word;Coefficient
+c_abduct;-11,051322392572887
+c_hbo;-8,438268454629316
+c_access c_news c_aggreg;-11,051322392572887
+c_prosecutor c_said;-8,76867727378012
+c_access c_news c_aggreg c_syndic;-11,051322392572887
+c_islam;-8,853751210803415
+c_accord c_blockchain;-11,051322392572887
+c_maduro;-8,953926364212847
+c_across c_countri c_cut;-11,051322392572887
+c_marshal;-9,01131723018113
+c_across c_countri c_cut c_overload;-11,051322392572887
+c_mas;-9,026406144034123
+c_across c_england;-11,051322392572887
+c_venezuelan;-9,051507768303239
+c_activ c_major;-11,051322392572887
+c_clinton;-9,054331037248836
+c_ad c_refer;-11,051322392572887
+c_pboc;-9,06861711524023
+c_affect c_cyberattack;-11,051322392572887
+c_tether;-9,094779137198614
+Word;Coefficient
+c_____ap;-11,042219160022107
+c_hbo;-8,852150702861042
+c_accept c_among c_tradit;-11,042219160022107
+c_vinnik;-9,054642186478507
+c_accept c_among c_tradit c_investor;-11,042219160022107
+c_rbi;-9,101433527480584
+c_access c_case c_compromis;-11,042219160022107
+c_mcafe;-9,102340481865687
+c_access c_victim;-11,042219160022107
+c_clinton;-9,120217824960374
+c_accid c_emerg;-11,042219160022107
+c_zuckerberg;-9,129241986559995
+c_accident c_discov;-11,042219160022107
+c_mac;-9,165079356588762
+c_accident c_regist;-11,042219160022107
+c_bithumb;-9,199964296213384
+c_accident c_regist c_domain;-11,042219160022107
+c_mit;-9,202199039780574
+c_accident c_regist c_domain c_name;-11,042219160022107
+c_yahoo;-9,215686770661806
+Word;Coefficient
+c_____ap;-11,061043705549089
+c_hbo;-8,546702678715828
+c_abduct;-11,061043705549089
+c_islam;-9,018357202993531
+c_abl c_gain;-11,061043705549089
+c_prosecutor c_said;-9,078703979940041
+c_accident c_discov;-11,061043705549089
+c_clinton;-9,119655731163856
+c_accident c_discov c_kill;-11,061043705549089
+c_mcafe;-9,128130406858372
+c_accident c_discov c_kill c_switch;-11,061043705549089
+c_marshal;-9,134989732359726
+c_accident c_regist;-11,061043705549089
+c_tether;-9,13773184643177
+c_accident c_regist c_domain;-11,061043705549089
+c_yahoo;-9,145239848956686
+c_accident c_regist c_domain c_name;-11,061043705549089
+c_bithumb;-9,234577418562534
+c_accord c_file;-11,061043705549089
+c_e c_doc;-9,235513301813059
+Word;Coefficient
+c_____ap c_market;-11,021807373527738
+c_hbo;-8,854024706538995
+c_____ap c_market c_writer;-11,021807373527738
+c_prosecutor c_said;-8,871853899320202
+c_abduct;-11,021807373527738
+c_vinnik;-8,881844569469788
+c_access c_case;-11,021807373527738
+c_maduro;-8,961443401974531
+c_access c_case c_compromis;-11,021807373527738
+c_darknet;-9,011067739408027
+c_access c_secur;-11,021807373527738
+c_rbi;-9,043965224926092
+c_accord c_public;-11,021807373527738
+c_islam;-9,07179608786124
+c_account c_central;-11,021807373527738
+c_fca;-9,19378575650245
+c_accus c_insid;-11,021807373527738
+c_bossert;-9,199447114736076
+c_accus c_insid c_trade;-11,021807373527738
+c_mac;-9,205406628211753
+Word;Coefficient
+c_abl c_connect c_regist;-11,052143834865214
+c_hbo;-8,578106289018328
+c_abl c_connect c_regist c_domain;-11,052143834865214
+c_maduro;-8,83587500110357
+c_access c_compromis;-11,052143834865214
+c_marshal;-8,965957394083372
+c_access c_compromis c_germani;-11,052143834865214
+c_darknet;-8,989127479659327
+c_access c_compromis c_germani c_rail;-11,052143834865214
+c_venezuelan;-9,074059757312616
+c_access c_continu;-11,052143834865214
+c_pboc;-9,102197560533408
+c_access c_system c_sever;-11,052143834865214
+c_segwitx;-9,11839348656821
+c_access c_system c_sever c_hospit;-11,052143834865214
+c_ddos;-9,12005221444293
+c_accid c_emerg;-11,052143834865214
+c_mac;-9,12162108711918
+c_accident c_regist;-11,052143834865214
+c_clinton;-9,129766108933612
+Word;Coefficient
+c____ c_p c_secur;-11,030947019079195
+c_hbo;-8,421738264887415
+c_abduct c_overgrown;-11,030947019079195
+c_stripe;-8,901043616037908
+c_access c_compromis;-11,030947019079195
+c_marshal;-8,935235998764425
+c_access c_compromis c_germani;-11,030947019079195
+c_bithumb;-9,000681091183525
+c_access c_compromis c_germani c_rail;-11,030947019079195
+c_maduro;-9,060400806919858
+c_access c_system c_sever;-11,030947019079195
+c_clinton;-9,079877860419897
+c_access c_system c_sever c_hospit;-11,030947019079195
+c_tether;-9,134197759017017
+c_accident c_regist;-11,030947019079195
+c_cannabi;-9,153145489433795
+c_accident c_regist c_domain;-11,030947019079195
+c_prosecutor c_said;-9,157422837236592
+c_accident c_regist c_domain c_name;-11,030947019079195
+c_tor;-9,178518170566644
+Word;Coefficient
+c_____ap c_market;-11,04706961490711
+c_hbo;-8,494862021149869
+c_____ap c_market c_writer;-11,04706961490711
+c_yahoo;-8,907826146687114
+c_abc c_news;-11,04706961490711
+c_mesri;-8,94759767873073
+c_accept c_among c_tradit;-11,04706961490711
+c_maduro;-9,011984405215905
+c_accept c_among c_tradit c_investor;-11,04706961490711
+c_prosecutor c_said;-9,026049324927337
+c_accomplic;-11,04706961490711
+c_marshal;-9,029411147870297
+c_accord c_autonom;-11,04706961490711
+c_deloitt;-9,100320824994029
+c_accord c_blockchain c_info;-11,04706961490711
+c_darknet c_market;-9,123607162498253
+c_accord c_secur c_firm;-11,04706961490711
+c_clinton;-9,163810027743843
+c_account c_associ c_attack;-11,04706961490711
+c_ir;-9,184405646233683
+Word;Coefficient
+c_abduct;-11,0828042434591
+c_hbo;-8,750472726565855
+c_abl c_rais;-11,0828042434591
+c_tether;-8,896341228546143
+c_access c_case;-11,0828042434591
+c_prosecutor c_said;-8,928154563872779
+c_access c_case c_compromis;-11,0828042434591
+c_vinnik;-9,009944173534056
+c_access c_case c_compromis c_repres;-11,0828042434591
+c_huobi;-9,015440815893987
+c_accid c_emerg;-11,0828042434591
+c_maduro;-9,057794414635751
+c_account c_central;-11,0828042434591
+c_islam;-9,127910473421487
+c_accus c_insid;-11,0828042434591
+c_segwit;-9,154989572995282
+c_accus c_insid c_trade;-11,0828042434591
+c_mcafe;-9,167143396683919
+c_accus c_insid c_trade c_follow;-11,0828042434591
+c_cannabi;-9,205796156583718

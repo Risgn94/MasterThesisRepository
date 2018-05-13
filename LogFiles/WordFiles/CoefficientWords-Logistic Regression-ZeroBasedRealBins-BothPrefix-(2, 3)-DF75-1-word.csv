@@ -1,0 +1,244 @@
+Word;Coefficient;Target
+<<<<<<< HEAD
+c_forward c_look c_inform;-0,40612063821372923;High
+c_john c_mcafe;0,538928384366238;High
+c_look c_inform;-0,4020069331981389;High
+c_e c_doc;0,4996704355035664;High
+c_ice c_tea;-0,35117651484046075;High
+c_dark c_net;0,48334874008081163;High
+c_world c_econom c_forum;-0,3502896748825971;High
+c_doubl c_layer;0,4528919586336998;High
+c_long c_blockchain;-0,3415410829470552;High
+c_legend c_room;0,45168563641034276;High
+c_reach c_record;-0,31923043264145895;High
+c_mr c_wright;0,44127189107848275;High
+c_index c_fund;-0,305586538623334;High
+c_sub c_chain;0,4237477743471442;High
+c_btc c_e;-0,2918579232667365;High
+c_share c_economi;0,41330585951399496;High
+c_regulatori c_clampdown;-0,2766949989990592;High
+c_marshal c_servic;0,41292753687657185;High
+c_black c_death;-0,27628248980603515;High
+c_famili c_hub;0,4049135500830539;High
+c_mr c_dimon;-0,2655500447390223;High
+c_dr c_wright;0,3868257097930703;High
+c_third c_valu;-0,2636636021211073;High
+c_mad c_network;0,3847010266459209;High
+c_fell c_low;-0,26013513248833353;High
+c_palo c_alto;0,37356909689989404;High
+c_na c_decryptor;-0,25146715428981786;High
+c_di c_iorio;0,3703029684998446;High
+c_wan c_na c_decryptor;-0,25146715428981786;High
+c_back c_door;0,3662715513802654;High
+c_net c_neutral;-0,4041774131615357;Highest
+c_carney c_said;0,5242759879539919;Highest
+c_ice c_tea;-0,3897453803760023;Highest
+c_dr c_low;0,5088132550124502;Highest
+c_long c_blockchain;-0,377326233511526;Highest
+c_dumb c_ass;0,4052524692917075;Highest
+c_south c_korean c_exchang;-0,36804193268561436;Highest
+c_top c_trend;0,39857588147775436;Highest
+c_riot c_blockchain;-0,3183095359298099;Highest
+c_fed c_rate;0,39710681273273263;Highest
+c_trade c_financ;-0,31596570569410215;Highest
+c_sourc c_said;0,3599029706418238;Highest
+c_dimon c_said;-0,3159324187025707;Highest
+c_wide c_expect;0,3540658626690657;Highest
+c_coin c_mx;-0,3157013179948882;Highest
+c_look c_inform;0,35138458735146677;Highest
+c_victori c_squar;-0,31465442545109507;Highest
+t_bitcoin t_hit;0,350850879123813;Highest
+c_dark c_net;-0,30942413412735814;Highest
+c_game c_throne;0,34000613826908355;Highest
+c_credit c_union;-0,298478111070449;Highest
+c_ethereum c_classic;0,33823995820388375;Highest
+c_long c_island c_ice;-0,29085937119401495;Highest
+c_dmd c_diamond;0,33803590853726023;Highest
+c_island c_ice;-0,2891873157631474;Highest
+c_bueno c_air;0,3335943426864269;Highest
+c_island c_ice c_tea;-0,2891873157631474;Highest
+c_black c_death;0,33268715187870945;Highest
+c_mr c_wright;-0,28850187408440975;Highest
+c_feder c_secur;0,33094052657094875;Highest
+c_financialbuzz c_com;-0,3640678573640127;Low
+c_dimon c_said;0,5143636920222406;Low
+c_game c_throne;-0,2968990712939214;Low
+c_pirat c_caribbean;0,5118473444460182;Low
+c_nhs c_trust;-0,26311064090092484;Low
+c_hansa c_market;0,4592312916678484;Low
+c_index c_fund;-0,26282200744882533;Low
+c_equat c_group;0,42208929812858254;Low
+c_job c_report;-0,261053400088235;Low
+c_spell c_genesi;0,3677671828558807;Low
+c_bank c_japan;-0,26033561611694195;Low
+c_trade c_financ;0,35145108292547406;Low
+c_beij c_base;-0,2476829188519546;Low
+c_santo c_mine;0,34889010464041753;Low
+c_invest c_llc;-0,2447345455311555;Low
+t_fool t_goldc_none;0,34708964736509146;Low
+c_biggest c_bitcoin c_exchang;-0,2344970360102776;Low
+t_crypto t_fool t_goldc_none;0,34708964736509146;Low
+c_grayscal c_invest c_llc;-0,23186866896583944;Low
+t_crypto t_fool;0,34708964736509146;Low
+c_etern c_blue;-0,22526940357393793;Low
+c_wis c_watch;0,33503486438593516;Low
+c_sourc c_said;-0,22273296926580993;Low
+c_threaten c_releas;0,3331065380432401;Low
+c_industri c_associ;-0,22061587582026607;Low
+c_europol c_said;0,33140372374890825;Low
+c_chines c_investor;-0,2193887892540031;Low
+c_princ c_alwale;0,327112924469666;Low
+c_stop c_trade;-0,21837244630978783;Low
+c_awesom c_miner;0,32537900935294556;Low
+c_game c_throne;-0,3829390665957589;Lowest
+c_ice c_tea;0,8877110459522511;Lowest
+c_legend c_room;-0,30632253213690325;Lowest
+c_long c_blockchain;0,6661766453427009;Lowest
+c_brian c_kelli;-0,29413031232850123;Lowest
+c_island c_ice c_tea;0,628667349702324;Lowest
+c_marshal c_island;-0,2845258628355837;Lowest
+c_island c_ice;0,628667349702324;Lowest
+t_bitcoin t_hit;-0,2836867982102208;Lowest
+c_long c_island c_ice;0,5900258266608346;Lowest
+c_bitcoin c_foundat;-0,2560969242746815;Lowest
+c_ieg c_hold;0,5279802546833907;Lowest
+c_hold c_ltd;-0,2388123362712696;Lowest
+c_percent c_lower;0,5253951462642841;Lowest
+c_mr c_wright;-0,23671370110009068;Lowest
+c_lloyd c_bank;0,4908063220912116;Lowest
+c_islam c_state;-0,23534276481565322;Lowest
+c_south c_korean c_exchang;0,4857919883310121;Lowest
+c_dark c_net;-0,23027725143608074;Lowest
+c_index c_fund;0,474982914946265;Lowest
+c_prepaid c_card;-0,2285434698048563;Lowest
+c_galaxi c_digit;0,4740121049474375;Lowest
+c_tim c_seymour;-0,22817581327145625;Lowest
+t_bitcoin t_fall;0,4596357095040664;Lowest
+c_newswir c_com;-0,221156956174623;Lowest
+c_third c_valu;0,4577334247168621;Lowest
+t_bitcoin t_soar;-0,22077365495643594;Lowest
+c_stop c_trade;0,452408432457339;Lowest
+c_black c_death;-0,21418220761706877;Lowest
+c_fell c_low;0,4419958720589081;Lowest
+=======
+c_index c_fund;-0,311899840878781;High
+c_prosecutor c_said;0,8941931875106647;High
+c_world c_econom c_forum;-0,29855849217257724;High
+c_legend c_room;0,5362271132474904;High
+c_saudi c_arabia;-0,29198295052526263;High
+c_credit c_china;0,5226252808089912;High
+c_nhs c_digit;-0,2691927882155364;High
+c_marshal c_island;0,4895746010560137;High
+c_evolv c_market;-0,26683759712073746;High
+c_mr c_wright;0,4854555934207616;High
+c_high c_near;-0,2576817661242056;High
+c_tao c_network;0,46016510449023784;High
+c_third c_valu;-0,2576160881545723;High
+c_credit c_china c_fintech;0,45124944857102417;High
+t_busi t_news;-0,25513140563421133;High
+c_darknet c_market;0,45060052504220044;High
+c_origin c_bitcoin;-0,2525803536442997;High
+c_ethereum c_classic;0,44314626980532806;High
+c____ c_p;-0,25195008668883984;High
+c_bitcoin c_creator;0,423338941690519;High
+c_keiser c_report;-0,2498031577984373;High
+c_bitcasino c_io;0,3990228989369191;High
+c_affect c_organis;-0,2476572817081342;High
+c_sex c_worker;0,3847035743743232;High
+c_regulatori c_clampdown;-0,24747738603287925;High
+c_gemini c_exchang;0,37644382586329056;High
+c_split c_bitcoin;-0,24581670418452373;High
+c_marshal c_servic;0,3754018529030613;High
+c_payment c_option;-0,2448779973566203;High
+c_digit c_debit;0,3700472122441026;High
+c_prosecutor c_said;-0,3971488188004703;Highest
+c_nhs c_digit;0,5222458006270764;Highest
+c_mr c_wright;-0,3463556713693898;Highest
+c_deriv c_exchang c_oper;0,45279171441451443;Highest
+c_dark c_net;-0,3338977008244031;Highest
+c_would c_worth;0,4405688900543045;Highest
+c_world c_econom c_forum;-0,33184022228059734;Highest
+c_bithub c_africa;0,42580346296972005;Highest
+c_dimon c_said;-0,315706591712936;Highest
+c_ico c_scheme;0,42274584951566657;Highest
+c_victori c_squar;-0,3077195922553775;Highest
+c_fed c_rate;0,40263789641966513;Highest
+c_korean c_exchang;-0,3073630085189644;Highest
+c_bitcoin c_reach;0,40141445250600344;Highest
+c_artikel c_lesen;-0,2949272784785137;Highest
+c_ormeus c_coin;0,3907287994362812;Highest
+c_den c_vollständigen;-0,2949272784785137;Highest
+c_bitcoin c_ira;0,39053888743450826;Highest
+c_den c_vollständigen c_artikel;-0,2949272784785137;Highest
+c_game c_throne;0,38754592244967434;Highest
+c_vollständigen c_artikel;-0,2949272784785137;Highest
+t_bitcoin t_hit;0,38363044445939126;Highest
+c_vollständigen c_artikel c_lesen;-0,2949272784785137;Highest
+c_largest c_deriv c_exchang;0,37890204956261164;Highest
+c_technolog c_inc;-0,2936411985532105;Highest
+c_top c_trend;0,3729049615102678;Highest
+c_bad c_end;-0,28524350318151703;Highest
+c_coin c_cash;0,372751917015943;Highest
+c_south c_korean c_exchang;-0,28160758227159205;Highest
+c_invest c_scheme;0,358134795555312;Highest
+c_ethereum c_classic;-0,3302658736604793;Low
+c_equat c_group;0,5633576389008725;Low
+c_index c_fund;-0,30001884866217826;Low
+c_pirat c_caribbean;0,5027876687205483;Low
+c_bitcoin c_ira;-0,29605286470191877;Low
+c_hansa c_market;0,45299505212771274;Low
+c_financialbuzz c_com;-0,287954779560323;Low
+c_cloud c_host;0,39038275250009036;Low
+c_legend c_room;-0,2832160467280027;Low
+c_dark c_net;0,3807229170143965;Low
+c_riot c_blockchain;-0,28186388345741475;Low
+c_breakout c_game;0,37676476691241717;Low
+c_motley c_fool;-0,2713469252890379;Low
+c_bar c_work;0,36973658005810417;Low
+c_game c_throne;-0,25681199670612914;Low
+c_kushner c_said;0,36456255516517644;Low
+c_job c_report;-0,25268333348222005;Low
+c_bob c_iger;0,3637483467376463;Low
+c_valu c_past;-0,244885774660666;Low
+c_gateway c_market;0,36282841824669676;Low
+c_grayscal c_invest;-0,2431676857437147;Low
+c_student c_loan;0,36115530766273346;Low
+c_lightn c_network;-0,2421030576446963;Low
+c_threaten c_releas;0,35762954022257687;Low
+t_full t_articl;-0,2419043727290278;Low
+c_tim c_seymour;0,35285723177587475;Low
+c_na c_decryptor;-0,23999639218524432;Low
+c_privaci c_digit;0,3426092748353147;Low
+c_wan c_na c_decryptor;-0,23999639218524432;Low
+c_hollywood c_report;0,3355551124902974;Low
+c_prosecutor c_said;-0,447334112305262;Lowest
+c_index c_fund;0,7758456634941134;Lowest
+c_game c_throne;-0,3693653658269541;Lowest
+c_korean c_exchang;0,6212571970176112;Lowest
+t_bitcoin t_hit;-0,2907122038821106;Lowest
+c_ice c_tea;0,5554791434045003;Lowest
+c_mr c_wright;-0,2902978577760149;Lowest
+c_insid c_trade;0,5486268703021365;Lowest
+c_p c_p;-0,27631565137217406;Lowest
+c_lloyd c_bank;0,5130132309448447;Lowest
+c_bitcoin c_ira;-0,26194052119456096;Lowest
+c_cex c_io;0,47699543273381484;Lowest
+c_dark c_net;-0,24555394275621792;Lowest
+c_regulatori c_clampdown;0,44373449446493496;Lowest
+c_bitcoin c_creator;-0,24498236333787754;Lowest
+c_long c_blockchain;0,44009491225404895;Lowest
+c_electron c_payment;-0,22760065336443755;Lowest
+c_world c_econom c_forum;0,43677841259177463;Lowest
+c_block c_one;-0,22558499333387894;Lowest
+c_fell c_low;0,4339599942954657;Lowest
+c_cloud c_servic;-0,22111231609460813;Lowest
+c_stop c_trade;0,4053716920769805;Lowest
+c_clear c_bitcoin;-0,21989048852674994;Lowest
+c_chang c_name;0,3993899130207224;Lowest
+c_version c_microsoft;-0,21791853780074133;Lowest
+c_use c_credit c_card;0,3960627515627281;Lowest
+c_offer c_bitcoin c_futur;-0,21626528840523948;Lowest
+c_custom c_buy;0,3960517301155978;Lowest
+c_high c_end;-0,211340718548936;Lowest
+c_coinbas c_said;0,39570412830843493;Lowest
+>>>>>>> 010972678ac4b4e06eb0551f59d14c6252b63261

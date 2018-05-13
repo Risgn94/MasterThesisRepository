@@ -1,0 +1,189 @@
+Word;Coefficient
+c__ c_among;-7,091742115095153
+c_tea;-3,4028626609812167
+c__ c_among c_australia;-7,091742115095153
+c_long c_island;-3,4028626609812167
+c__ c_among c_australia c_japan;-7,091742115095153
+c_oanda;-3,4541559553687673
+c__ c_aspx;-7,091742115095153
+c_long c_blockchain;-3,4541559553687673
+c__ c_aspx c_eastern;-7,091742115095153
+c_ice c_tea;-3,4541559553687673
+c__ c_aspx c_eastern c_cfa;-7,091742115095153
+c_trade c_futur;-3,4808242024509286
+c__ c_breitwoman;-7,091742115095153
+c_long c_island c_ice c_tea;-3,4808242024509286
+c__ c_breitwoman c_januari;-7,091742115095153
+c_long c_island c_ice;-3,4808242024509286
+c__ c_breitwoman c_januari c_mani;-7,091742115095153
+c_island c_ice c_tea;-3,4808242024509286
+c__ c_breitwoman c_septemb;-7,091742115095153
+c_island c_ice;-3,4808242024509286
+Word;Coefficient
+c__ c__ c_mir_btc;-7,1098794630722715
+c_trade c_futur;-3,3963073963679635
+c__ c__ c_mir_btc c_decemb;-7,1098794630722715
+c_tea;-3,58351893845611
+c__ c_address;-7,1098794630722715
+c_long c_island;-3,58351893845611
+c__ c_address c_said;-7,1098794630722715
+c_would c_stop;-3,644143560272545
+c__ c_address c_said c_dead;-7,1098794630722715
+c_exchang c_cboe;-3,644143560272545
+c__ c_also;-7,1098794630722715
+c_actual c_bitcoin;-3,644143560272545
+c__ c_also c_come;-7,1098794630722715
+c_sinc c_begin c_year;-3,675892258587125
+c__ c_also c_come c_boon;-7,1098794630722715
+c_rise c_fall;-3,675892258587125
+c__ c_although;-7,1098794630722715
+c_sinc c_august;-3,708682081410116
+c__ c_although c_play;-7,1098794630722715
+c_market c_volatil;-3,708682081410116
+Word;Coefficient
+c__ c_adrien;-7,064759027791802
+c_trade c_futur;-3,4812400893356923
+c__ c_adrien c_guinet;-7,064759027791802
+c_exchang c_cboe;-3,5094109663023887
+c__ c_adrien c_guinet c_matthieu;-7,064759027791802
+c_investor c_bet;-3,5990231249920757
+c__ c_aggreg;-7,064759027791802
+c_downturn;-3,630771823306656
+c__ c_aggreg c_aggreg;-7,064759027791802
+c_chicago c_board;-3,630771823306656
+c__ c_aggreg c_aggreg c_economi;-7,064759027791802
+c_cboe c_futur c_exchang;-3,630771823306656
+c__ c_anim;-7,064759027791802
+c_chief c_market c_strategist;-3,6635616461296467
+c__ c_anim c_fill;-7,064759027791802
+c_digit c_currenc c_like;-3,697463197805328
+c__ c_anim c_fill c_role;-7,064759027791802
+c_chicago c_board c_option c_exchang;-3,697463197805328
+c__ c_approv;-7,064759027791802
+c_chicago c_board c_option;-3,697463197805328
+Word;Coefficient
+c__ c__;-7,057897937411856
+c_long c_island;-3,36901848329792
+c__ c__ c_mir_btc;-7,057897937411856
+c_exchang c_cboe;-3,39433629128221
+c__ c__ c_mir_btc c_decemb;-7,057897937411856
+c_tea;-3,4203117776854706
+c__ c_adrien;-7,057897937411856
+c_trade c_futur;-3,446980024767632
+c__ c_adrien c_guinet;-7,057897937411856
+c_ice c_tea;-3,4743789989557463
+c__ c_adrien c_guinet c_matthieu;-7,057897937411856
+c_long c_blockchain;-3,5025498759224427
+c__ c_along;-7,057897937411856
+c_long c_island c_ice c_tea;-3,5315374127956947
+c__ c_along c_support;-7,057897937411856
+c_long c_island c_ice;-3,5315374127956947
+c__ c_along c_support c_vulkan;-7,057897937411856
+c_island c_ice c_tea;-3,5315374127956947
+c__ c_anim;-7,057897937411856
+c_island c_ice;-3,5315374127956947
+Word;Coefficient
+c__ c_address;-7,108244139731541
+c_exchang c_cboe;-3,3705745214481726
+c__ c_address c_said;-7,108244139731541
+c_trade c_futur;-3,4446824936018947
+c__ c_address c_said c_dead;-7,108244139731541
+c_actual c_bitcoin;-3,4446824936018947
+c__ c_although;-7,108244139731541
+c_chief c_market c_strategist;-3,524725201275431
+c__ c_although c_play;-7,108244139731541
+c_slower;-3,611736578265061
+c__ c_although c_play c_role;-7,108244139731541
+c_long c_island;-3,6425082369318145
+c__ c_aspx;-7,108244139731541
+c_york c_stock c_exchang;-3,7070467580693856
+c__ c_aspx c_eastern;-7,108244139731541
+c_york c_stock;-3,7070467580693856
+c__ c_aspx c_eastern c_cfa;-7,108244139731541
+c_tea;-3,7070467580693856
+c__ c_check;-7,108244139731541
+c_new c_york c_stock c_exchang;-3,7070467580693856
+Word;Coefficient
+c__ c_aggreg;-7,0825485693553
+t_bitcoin t_futur;-3,4716306567110755
+c__ c_aggreg c_aggreg;-7,0825485693553
+c_trade c_futur;-3,49902963089919
+c__ c_aggreg c_aggreg c_economi;-7,0825485693553
+c_close c_percent;-3,6168126665555733
+c__ c_among;-7,0825485693553
+c_investor c_bet;-3,6485613648701536
+c__ c_among c_australia;-7,0825485693553
+c_fox;-3,6485613648701536
+c__ c_among c_australia c_japan;-7,0825485693553
+c_call c_bitcoin c_fraud;-3,6485613648701536
+c__ c_aspx;-7,0825485693553
+c_oanda;-3,6813511876931444
+c__ c_aspx c_eastern;-7,0825485693553
+c_gain c_point;-3,6813511876931444
+c__ c_aspx c_eastern c_cfa;-7,0825485693553
+c_downturn;-3,6813511876931444
+c__ c_breitwoman;-7,0825485693553
+c_chicago c_board c_option;-3,6813511876931444
+Word;Coefficient
+c__ c__;-7,106606137727303
+c_tea;-3,4430444915976564
+c__ c__ c_mir_btc;-7,106606137727303
+c_long c_island;-3,4430444915976564
+c__ c__ c_mir_btc c_decemb;-7,106606137727303
+c_trade c_futur;-3,469019978000917
+c__ c_along;-7,106606137727303
+c_long c_blockchain;-3,4956882250830783
+c__ c_along c_support;-7,106606137727303
+c_exchang c_cboe;-3,5230871992711927
+c__ c_along c_support c_vulkan;-7,106606137727303
+c_investor c_bet;-3,551258076237889
+c__ c_although;-7,106606137727303
+c_ice c_tea;-3,551258076237889
+c__ c_although c_play;-7,106606137727303
+c_long c_island c_ice c_tea;-3,580245613111141
+c__ c_although c_play c_role;-7,106606137727303
+c_long c_island c_ice;-3,580245613111141
+c__ c_among;-7,106606137727303
+c_island c_ice c_tea;-3,580245613111141
+Word;Coefficient
+c__ c_adrien;-7,074963197966044
+c_trade c_futur;-3,4373770382396582
+c__ c_adrien c_guinet;-7,074963197966044
+c_exchang c_cboe;-3,4373770382396582
+c__ c_adrien c_guinet c_matthieu;-7,074963197966044
+c_investor c_bet;-3,4640452853218195
+c__ c_also;-7,074963197966044
+c_tea;-3,5486026733498823
+c__ c_also c_come;-7,074963197966044
+c_slower;-3,5784556364995637
+c__ c_also c_come c_boon;-7,074963197966044
+c_long c_island;-3,5784556364995637
+c__ c_averag c_jhoo;-7,074963197966044
+c_ice c_tea;-3,6092272951663174
+c__ c_averag c_jhoo c_dong;-7,074963197966044
+c_long c_island c_ice c_tea;-3,6409759934808976
+c__ c_breitwoman;-7,074963197966044
+c_long c_island c_ice;-3,6409759934808976
+c__ c_breitwoman c_januari;-7,074963197966044
+c_island c_ice c_tea;-3,6409759934808976
+Word;Coefficient
+c__ c__ c_mir_btc;-7,089243155027514
+c_investor c_bet;-3,400363700913578
+c__ c__ c_mir_btc c_decemb;-7,089243155027514
+c_exchang c_cboe;-3,425681508897868
+c__ c_address;-7,089243155027514
+c_trade c_futur;-3,4516569953011285
+c__ c_address c_said;-7,089243155027514
+c_york c_stock c_exchang;-3,505724216571404
+c__ c_address c_said c_dead;-7,089243155027514
+c_york c_stock;-3,505724216571404
+c__ c_approv;-7,089243155027514
+c_new c_york c_stock c_exchang;-3,505724216571404
+c__ c_approv c_rate;-7,089243155027514
+c_new c_york c_stock;-3,505724216571404
+c__ c_approv c_rate c_rare;-7,089243155027514
+c_long c_island;-3,6235072522277876
+c__ c_aspx;-7,089243155027514
+c_earli c_trade;-3,6235072522277876
+c__ c_aspx c_eastern;-7,089243155027514
+c_actual c_bitcoin;-3,6235072522277876

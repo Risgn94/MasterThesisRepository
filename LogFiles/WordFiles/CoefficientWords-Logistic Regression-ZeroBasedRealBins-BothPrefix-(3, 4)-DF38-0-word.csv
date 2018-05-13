@@ -1,0 +1,189 @@
+Word;Coefficient
+t_barbarian t_monetari t_gatec_none;-0,230608694513
+c_palo c_alto c_network;0,444655483188
+c_bitstamp c_exchang c_bitcoin;-0,213924324582
+c_futur c_contract c_expir;0,333887155123
+c_economi c_financ c_visit;-0,202327337844
+c_wisekey c_intern c_hold;0,308332243989
+c_economi c_financ c_visit c_rt;-0,202327337844
+c_contract c_expir c_januari;0,306448937269
+c_financ c_visit c_rt;-0,202327337844
+c_score c_japan c_nikkei c_index;0,305678402865
+c_financ c_visit c_rt c_busi;-0,202327337844
+c_credit c_china c_fintech;0,301163089192
+c_rt c_busi c_section;-0,202327337844
+c_futur c_contract c_expir c_januari;0,294568362579
+c_stori c_economi c_financ;-0,202327337844
+c_cash c_settl c_contract;0,27216497252
+c_stori c_economi c_financ c_visit;-0,202327337844
+c_bitcoin c_exchang c_china;0,267425707558
+c_visit c_rt c_busi;-0,202327337844
+t_trade t_oil t_price;0,266483187062
+Word;Coefficient
+c_forward c_look c_inform;-0,349005921839
+c_grayscal c_invest c_llc;0,363924042373
+c_econom c_forum c_davo;-0,244309713846
+c_marshal c_servic c_said;0,317242123164
+c_world c_econom c_forum c_davo;-0,244309713846
+c_contract c_expir c_januari;0,314207749661
+c_lloyd c_bank c_group;-0,242502202547
+c_wisekey c_intern c_hold;0,309778420629
+c_dead c_men c_tell;-0,228293277383
+c_futur c_contract c_expir;0,303582328914
+c_dead c_men c_tell c_tale;-0,228293277383
+c_futur c_contract c_expir c_januari;0,296540199599
+c_men c_tell c_tale;-0,228293277383
+c_allow c_investor c_bet;0,290971299681
+t_crypto t_fool t_goldc_none;-0,224202911359
+c_credit c_china c_fintech;0,290627248304
+t_cryptocurr t_firec_picur c_option;-0,224202911359
+c_local c_radio c_station;0,282433536417
+c_http c_nnw c_fm;-0,20701597994
+c_prepar c_bill c_ban;0,279585254933
+Word;Coefficient
+c_economi c_financ c_visit;-0,258859310936
+c_ph c_miner c_inc;0,437328208009
+c_economi c_financ c_visit c_rt;-0,258859310936
+c_contract c_expir c_januari;0,375427834469
+c_financ c_visit c_rt;-0,258859310936
+c_futur c_contract c_expir c_januari;0,366179700271
+c_financ c_visit c_rt c_busi;-0,258859310936
+c_digit c_asset c_hold;0,362227536788
+c_rt c_busi c_section;-0,258859310936
+c_futur c_contract c_expir;0,360271568733
+c_stori c_economi c_financ;-0,258859310936
+t_pick t_bitcoin t_goldc_none;0,342315986872
+c_stori c_economi c_financ c_visit;-0,258859310936
+t_millenni t_pick t_bitcoin t_goldc_none;0,342315986872
+c_visit c_rt c_busi;-0,258859310936
+t_millenni t_pick t_bitcoin;0,342315986872
+c_visit c_rt c_busi c_section;-0,258859310936
+c_inc c_cboe c_global c_market;0,324692991785
+c_bitcoin c_group c_se;-0,226317747278
+c_inc c_cboe c_global;0,324692991785
+Word;Coefficient
+c_forward c_look c_inform;-0,358391386123
+c_wisekey c_intern c_hold;0,496044661101
+t_ap t_top t_busi;-0,241446049226
+c_futur c_contract c_expir;0,495925747024
+t_ap t_top t_busi t_news;-0,241446049226
+c_futur c_contract c_expir c_januari;0,463740730397
+t_top t_busi t_news;-0,241446049226
+c_contract c_expir c_januari;0,438924564905
+t_cryptocurr t_firec_picur c_option;-0,229796649512
+c_intern c_hold c_ltd;0,428090974335
+c_per c_cent c_close;-0,209638625763
+c_wisekey c_intern c_hold c_ltd;0,417200649597
+t_reuterc_stori c_edit c_firstpost;-0,189058757382
+c_digit c_asset c_hold;0,399630857274
+t_reuterc_stori c_edit c_firstpost c_staff;-0,189058757382
+c_doubl c_layer c_chain;0,378689941116
+c_trade c_bitcoin c_cash;-0,188306837207
+c_allow c_investor c_bet;0,34493961147
+c_credit c_card c_purchas;-0,182954485813
+c_beyond c_reason c_doubt;0,334129853723
+Word;Coefficient
+c_digit c_archiv c_subscript;-0,342981795466
+c_capit c_invest c_inc;0,354803939148
+c_open c_new c_window;-0,250655418171
+c_mgt c_capit c_invest c_inc;0,33709627099
+t_barbarian t_monetari t_gatec_none;-0,228708201982
+c_mgt c_capit c_invest;0,32581406408
+c_valu c_sinc c_start;-0,211973827483
+c_btcc c_huobi c_okcoin;0,280257266722
+c_valu c_sinc c_start c_year;-0,195356549292
+c_inc c_cboe c_global c_market;0,270449431275
+c_hit c_ransomwar c_attack;-0,180704192692
+c_inc c_cboe c_global;0,270449431275
+c_increas c_valu c_sinc;-0,177861234207
+c_prosecutor c_said c_shahnaz;0,269946257368
+c_exchang c_trade c_product;-0,175969573701
+t_return t_far t_altcoin t_trump;0,266724605244
+c_http c_reut c_rs;-0,175070816045
+t_return t_far t_altcoin;0,266724605244
+c_billion c_yen c_million;-0,174943556866
+t_far t_altcoin t_trump t_bitcoinc_none;0,266724605244
+Word;Coefficient
+t_crypto t_fool t_goldc_none;-0,232204677838
+c_grayscal c_invest c_llc;0,48011340142
+c_anoth c_record c_high;-0,225941786572
+c_ph c_miner c_inc;0,444273361517
+c_credit c_card c_custom;-0,223655081321
+c_cannabi c_big c_data;0,337125289173
+c_econom c_forum c_davo;-0,211067583937
+c_freedom c_host c_ii;0,329150885463
+c_world c_econom c_forum c_davo;-0,211067583937
+c_iphon c_x c_demand;0,325759015597
+c_block c_chain c_technolog;-0,199522301903
+c_prepar c_bill c_ban;0,323609993006
+c_world c_biggest c_bitcoin;-0,196451136799
+c_may c_creat c_new;0,30239277067
+c_gain c_percent c_year;-0,194378545039
+c_futur c_contract c_expir;0,298749884628
+c_credit c_card c_purchas;-0,190546590562
+t_top t_technolog t_news t_estc_facebook;0,291948595458
+c_economi c_financ c_visit;-0,186949782964
+t_technolog t_news t_estc_facebook;0,291948595458
+Word;Coefficient
+c_per c_cent c_close;-0,246524330905
+c_contract c_expir c_januari;0,371491610218
+c_accord c_data c_compil c_bloomberg;-0,244047892687
+c_futur c_contract c_expir c_januari;0,331947273211
+c_day c_move c_averag;-0,20838655061
+c_beyond c_reason c_doubt;0,330322895337
+c_digit c_archiv c_subscript;-0,207722123511
+c_futur c_contract c_expir;0,327906403355
+c_anoth c_record c_high;-0,206294303651
+t_top t_technolog t_news t_estc_facebook;0,304161453604
+c_cryptocurr c_mention c_motley;-0,193060251327
+t_technolog t_news t_estc_facebook;0,304161453604
+c_cryptocurr c_mention c_motley c_fool;-0,193060251327
+c_start c_commiss c_sexual;0,283196199469
+c_trade c_bitcoin c_cash;-0,191796149543
+c_player c_start c_commiss c_sexual;0,283196199469
+c_archiv c_stori c_purchas;-0,182634425337
+c_player c_start c_commiss;0,283196199469
+c_archiv c_stori c_purchas c_individu;-0,182634425337
+c_media c_player c_start c_commiss;0,283196199469
+Word;Coefficient
+c_digit c_archiv c_subscript;-0,286558861557
+c_per c_cent c_p c_p;0,357174665726
+t_barbarian t_monetari t_gatec_none;-0,233474530916
+c_cent c_p c_p;0,357174665726
+t_crypto t_fool t_goldc_none;-0,233474530916
+c_may c_creat c_new;0,356209483375
+t_cryptocurr t_firec_picur c_option;-0,233474530916
+c_www c_fxprobitcoin c_com;0,353203902742
+c_chines c_bitcoin c_exchang;-0,222914747728
+c_per c_cent c_p;0,340178468954
+c_hit c_ransomwar c_attack;-0,199700053683
+c_may c_creat c_new c_nerdi;0,325622341972
+c_reuter c_asian c_share;-0,196554985804
+c_fox c_deal c_may c_creat;0,325622341972
+c_ten c_thousand c_comput;-0,186081867292
+c_fox c_deal c_may;0,325622341972
+c_credit c_card c_custom;-0,177669797627
+c_deal c_may c_creat c_new;0,325622341972
+c_ad c_cent c_per;-0,174826964374
+c_deal c_may c_creat;0,325622341972
+Word;Coefficient
+c_central c_bank c_digit;-0,236951157372
+c_credit c_china c_fintech;0,403721552619
+c_japan c_nikkei c_rose;-0,215955309599
+c_ph c_miner c_inc;0,354911201022
+c_digit c_transact c_manag;-0,215689771543
+c_palo c_alto c_network;0,35153588474
+c_hashchain c_technolog c_inc;-0,213369363818
+t_pick t_bitcoin t_goldc_none;0,349004356966
+c_central c_bank c_digit c_currenc;-0,209930105592
+t_millenni t_pick t_bitcoin t_goldc_none;0,349004356966
+c_digit c_transact c_manag c_servic;-0,204905282966
+t_millenni t_pick t_bitcoin;0,349004356966
+c_transact c_manag c_servic;-0,204905282966
+c_futur c_contract c_expir;0,332581343171
+c_credit c_card c_purchas;-0,203668301149
+c_score c_japan c_nikkei c_index;0,32000409454
+c_econom c_forum c_davo;-0,197978080184
+c_prosecutor c_said c_shahnaz;0,318123953188
+c_world c_econom c_forum c_davo;-0,197978080184
+c_money c_launder c_counter;0,309619747653

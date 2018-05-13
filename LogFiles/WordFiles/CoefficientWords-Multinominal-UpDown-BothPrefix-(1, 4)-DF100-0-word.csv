@@ -1,0 +1,189 @@
+Word;Coefficient
+c__ c_averag;-15,554947585622726
+c_hbo;-13,246824918410397
+c__ c_averag c_decis;-15,554947585622726
+c_financialbuzz;-13,798808116268198
+c__ c_averag c_decis c_led;-15,554947585622726
+c_nicehash;-13,804606445735441
+c__ c_bithumb;-15,554947585622726
+c_financialbuzz c_com;-13,867933769680238
+c__ c_bithumb c_coinon;-15,554947585622726
+c_carney;-13,886042759603527
+c__ c_bithumb c_coinon c_korbit;-15,554947585622726
+c_wurfl;-13,917967645024078
+c__ c_breitwoman;-15,554947585622726
+c_venezuelan;-13,990644506541704
+c__ c_breitwoman c_januari;-15,554947585622726
+c_maduro;-14,03783052833766
+c__ c_breitwoman c_januari c_mani;-15,554947585622726
+c_vinnik;-14,10001892561597
+c__ c_breitwoman c_septemb;-15,554947585622726
+c_rbi;-14,10671925053344
+Word;Coefficient
+c__ c_breitwoman;-15,558211887389438
+c_hbo;-13,425519959500809
+c__ c_breitwoman c_januari;-15,558211887389438
+c_cannabi;-13,812700366685018
+c__ c_breitwoman c_januari c_mani;-15,558211887389438
+c_financialbuzz;-13,841439902267664
+c__ c_breitwoman c_septemb;-15,558211887389438
+c_maduro;-13,896036480785117
+c__ c_breitwoman c_septemb c_busi;-15,558211887389438
+c_clinton;-13,908140852252258
+c__ c_briefli;-15,558211887389438
+c_financialbuzz c_com;-13,925629064624856
+c__ c_briefli c_pass;-15,558211887389438
+c_vinnik;-13,942596094639645
+c__ c_briefli c_pass c_general;-15,558211887389438
+c_venezuelan;-13,952130630637546
+c__ c_column;-15,558211887389438
+c_petro;-13,959093854585348
+c__ c_column c_necessarili;-15,558211887389438
+c_wurfl;-13,962388098619467
+Word;Coefficient
+c__ c_approv;-15,541620314688863
+c_hbo;-13,139747680811976
+c__ c_approv c_rate;-15,541620314688863
+c_vinnik;-13,83303064801492
+c__ c_approv c_rate c_rare;-15,541620314688863
+c_clinton;-13,926659906836443
+c__ c_averag c_decis;-15,541620314688863
+c_nicehash;-13,958497738266821
+c__ c_averag c_decis c_led;-15,541620314688863
+c_quoin;-14,013542576025198
+c__ c_check;-15,541620314688863
+c_darknet;-14,06030012559038
+c__ c_check c_link;-15,541620314688863
+c_maduro;-14,069771884695959
+c__ c_check c_link c_bio;-15,541620314688863
+c_nvidia;-14,076089826378086
+c__ c_collect;-15,541620314688863
+c_venezuelan;-14,07650032818772
+c__ c_collect c_trillion;-15,541620314688863
+c_ira;-14,083523350334463
+Word;Coefficient
+c__ c_briefli;-15,547430075679921
+c_hbo;-13,117562674477256
+c__ c_briefli c_pass;-15,547430075679921
+c_financialbuzz;-13,679735049045325
+c__ c_briefli c_pass c_general;-15,547430075679921
+c_nicehash;-13,697803607419157
+c__ c_collect;-15,547430075679921
+c_financialbuzz c_com;-13,76875189587429
+c__ c_collect c_trillion;-15,547430075679921
+c_vinnik;-13,844823570072274
+c__ c_collect c_trillion c_issu;-15,547430075679921
+c_wurfl;-13,946835390219823
+c__ c_current;-15,547430075679921
+c_maduro;-13,961569807055074
+c__ c_current c_contract;-15,547430075679921
+c_petro;-13,998509790046393
+c__ c_current c_contract c_local;-15,547430075679921
+c_venezuelan;-14,004248275424985
+c__ c_depend;-15,547430075679921
+c_carney;-14,052547498102857
+Word;Coefficient
+c__ c_anim;-15,56736287837064
+c_hbo;-13,458783220444937
+c__ c_anim c_fill;-15,56736287837064
+c_wurfl;-13,769208028142792
+c__ c_anim c_fill c_role;-15,56736287837064
+c_cannabi;-13,871479533014734
+c__ c_averag;-15,56736287837064
+c_clinton;-13,886928915480201
+c__ c_averag c_decis;-15,56736287837064
+c_cftc;-13,887453645119383
+c__ c_averag c_decis c_led;-15,56736287837064
+c_financialbuzz;-13,962909451121961
+c__ c_bithumb;-15,56736287837064
+c_venezuelan;-14,001750350583782
+c__ c_bithumb c_coinon;-15,56736287837064
+c_ira;-14,00894216765427
+c__ c_bithumb c_coinon c_korbit;-15,56736287837064
+c_financialbuzz c_com;-14,033019573597917
+c__ c_check;-15,56736287837064
+c_archiv;-14,061680065777335
+Word;Coefficient
+c__ c_approv;-15,548968465593413
+c_hbo;-13,16048112100202
+c__ c_approv c_rate;-15,548968465593413
+c_vinnik;-13,812484024642464
+c__ c_approv c_rate c_rare;-15,548968465593413
+c_venezuelan;-13,85957132897718
+c__ c_averag;-15,548968465593413
+c_carney;-13,907518256227167
+c__ c_averag c_decis;-15,548968465593413
+c_maduro;-13,927124361211135
+c__ c_averag c_decis c_led;-15,548968465593413
+c_nicehash;-13,944585900396232
+c__ c_bithumb;-15,548968465593413
+c_clinton;-14,109180400938683
+c__ c_bithumb c_coinon;-15,548968465593413
+c_petro;-14,111617716508091
+c__ c_bithumb c_coinon c_korbit;-15,548968465593413
+c_nvidia;-14,16823732581074
+c__ c_breitwoman;-15,548968465593413
+c_throne;-14,204384673564647
+Word;Coefficient
+c__ c_approv;-15,547208655731493
+c_hbo;-13,381359568777603
+c__ c_approv c_rate;-15,547208655731493
+c_wurfl;-13,78825002705351
+c__ c_approv c_rate c_rare;-15,547208655731493
+c_vinnik;-13,90456070840354
+c__ c_averag;-15,547208655731493
+c_financialbuzz;-13,940672280880504
+c__ c_averag c_decis;-15,547208655731493
+c_maduro;-13,970163920830137
+c__ c_averag c_decis c_led;-15,547208655731493
+c_financialbuzz c_com;-14,018409812014145
+c__ c_bithumb;-15,547208655731493
+c_cannabi;-14,03772719005509
+c__ c_bithumb c_coinon;-15,547208655731493
+c_petro;-14,042987923648528
+c__ c_bithumb c_coinon c_korbit;-15,547208655731493
+c_nvidia;-14,071114696055595
+c__ c_breitwoman;-15,547208655731493
+c_bithumb;-14,088725250096678
+Word;Coefficient
+c__ c_column;-15,565186727871216
+c_hbo;-13,085326140169768
+c__ c_column c_necessarili;-15,565186727871216
+c_financialbuzz;-13,804154129402232
+c__ c_column c_necessarili c_reflect;-15,565186727871216
+c_financialbuzz c_com;-13,875263177642069
+c__ c_cryptocurr;-15,565186727871216
+c_vinnik;-13,907459556335214
+c__ c_cryptocurr c_thefuturea;-15,565186727871216
+c_nicehash;-13,961159520784268
+c__ c_cryptocurr c_thefuturea c_post;-15,565186727871216
+c_venezuelan;-13,98858761882999
+c__ c_decid;-15,565186727871216
+c_clinton;-14,046236659687779
+c__ c_decid c_withdraw;-15,565186727871216
+c____;-14,09558904457827
+c__ c_decid c_withdraw c_busi;-15,565186727871216
+c_darknet;-14,130700391205876
+c__ c_dismay;-15,565186727871216
+c_cftc;-14,13822003256751
+Word;Coefficient
+c__ c_anim;-15,54506180074417
+c_hbo;-13,250631804145073
+c__ c_anim c_fill;-15,54506180074417
+c_ira;-13,626613097554703
+c__ c_anim c_fill c_role;-15,54506180074417
+c_nicehash;-13,816198037551114
+c__ c_chicago;-15,54506180074417
+c_venezuelan;-13,828698783802789
+c__ c_chicago c_mercantil;-15,54506180074417
+c_financialbuzz;-13,913496311844689
+c__ c_chicago c_mercantil c_exchang;-15,54506180074417
+c_wurfl;-13,932626302453428
+c__ c_endurescopyright;-15,54506180074417
+c_cftc;-13,94131227179679
+c__ c_endurescopyright c_associ;-15,54506180074417
+c_maduro;-13,962656031888002
+c__ c_endurescopyright c_associ c_press;-15,54506180074417
+c_vinnik;-13,988771335068241
+c__ c_expanseoffici;-15,54506180074417
+c_financialbuzz c_com;-13,990653096212663

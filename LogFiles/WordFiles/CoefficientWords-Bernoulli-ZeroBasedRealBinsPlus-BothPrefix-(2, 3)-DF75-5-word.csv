@@ -1,0 +1,121 @@
+Word;Coefficient;Target
+c__ c_trumpvalu;-7,71601526664;High
+c_attack c_hacker;-4,07842910692;High
+c__ c_trumpvalu c_villag;-7,71601526664;High
+c_ship c_giant;-4,21950770518;High
+c____ c_britain;-7,71601526664;High
+c_releas c_new;-4,21950770518;High
+c____ c_britain c_health;-7,71601526664;High
+c_terror c_financ;-4,28202806216;High
+c____ c_expert;-7,71601526664;High
+c_sponsor c_mind c_master;-4,28202806216;High
+c____ c_expert c_global;-7,71601526664;High
+c_sponsor c_mind;-4,28202806216;High
+c____ c_franc;-7,71601526664;High
+c_paper c_open;-4,28202806216;High
+c____ c_franc c_auto;-7,71601526664;High
+c_origin c_version;-4,28202806216;High
+c____ c_german;-7,71601526664;High
+c_mind c_master c_machin;-4,28202806216;High
+c____ c_german c_busi;-7,71601526664;High
+c_mind c_master;-4,28202806216;High
+c____ c_global;-7,71601526664;High
+c_master c_machin c_call;-4,28202806216;High
+c____ c_global c_cyber;-7,71601526664;High
+c_master c_machin;-4,28202806216;High
+c____ c_indian;-7,71601526664;High
+c_machin c_call c_paper;-4,28202806216;High
+c____ c_indian c_author;-7,71601526664;High
+c_machin c_call;-4,28202806216;High
+c____ c_indian c_prime;-7,71601526664;High
+c_develop c_technolog;-4,28202806216;High
+c____ c_britain;-7,92804560087;Highest
+c_dow c_p;-4,09940420439;Highest
+c____ c_britain c_health;-7,92804560087;Highest
+c_gain c_point c_percent;-4,14385596696;Highest
+c____ c_franc;-7,92804560087;Highest
+c_p c_nasdaq;-4,16684548518;Highest
+c____ c_franc c_auto;-7,92804560087;Highest
+c_leak c_us;-4,16684548518;Highest
+c____ c_global;-7,92804560087;Highest
+c_us c_crude;-4,19037598259;Highest
+c____ c_global c_cyber;-7,92804560087;Highest
+c_rose c_point c_percent;-4,19037598259;Highest
+c____ c_indian c_author;-7,92804560087;Highest
+c_report c_friday;-4,19037598259;Highest
+c____ c_japanes;-7,92804560087;Highest
+c_leak c_us c_nation;-4,19037598259;Highest
+c____ c_japanes c_nonprofit;-7,92804560087;Highest
+c_futur c_point;-4,19037598259;Highest
+c____ c_p c_germani;-7,92804560087;Highest
+c_actual c_bitcoin;-4,19037598259;Highest
+c____ c_p c_investig;-7,92804560087;Highest
+c_largest c_exchang;-4,21447353417;Highest
+c____ c_p c_presid;-7,92804560087;Highest
+c_interest c_rate c_hike;-4,21447353417;Highest
+c____ c_p c_tom;-7,92804560087;Highest
+c_said c_john;-4,23916614676;Highest
+c____ c_previous;-7,92804560087;Highest
+c_document c_leak c_us;-4,23916614676;Highest
+c____ c_previous c_london;-7,92804560087;Highest
+c_decrypt c_file;-4,23916614676;Highest
+c__ c_trumpvalu;-7,6482630309;Low
+c_microsoft c_presid;-3,79811542919;Low
+c__ c_trumpvalu c_villag;-7,6482630309;Low
+c_version c_microsoft;-3,95938357679;Low
+c____ c_even;-7,6482630309;Low
+c_europol c_said;-3,98470138477;Low
+c____ c_even c_talk;-7,6482630309;Low
+c_wannacri c_malwar;-4,01067687118;Low
+c____ c_influenc;-7,6482630309;Low
+c_ransomwar c_worm;-4,01067687118;Low
+c____ c_influenc c_elect;-7,6482630309;Low
+c_comput c_across;-4,01067687118;Low
+c____ c_make;-7,6482630309;Low
+c_sinc c_friday;-4,03734511826;Low
+c____ c_make c_america;-7,6482630309;Low
+c_presid c_chief;-4,06474409245;Low
+c____ c_p c_britain;-7,6482630309;Low
+c_wake c_call;-4,09291496941;Low
+c____ c_p c_british;-7,6482630309;Low
+c_older c_version c_microsoft;-4,09291496941;Low
+c____ c_p c_cyberattack;-7,6482630309;Low
+c_soni c_pictur;-4,12190250629;Low
+c____ c_p c_franc;-7,6482630309;Low
+c_similar c_wannacri;-4,12190250629;Low
+c____ c_p c_german;-7,6482630309;Low
+c_secur c_flaw;-4,12190250629;Low
+c____ c_p c_hacker;-7,6482630309;Low
+c_link c_north;-4,12190250629;Low
+c____ c_p c_head;-7,6482630309;Low
+c_legal c_offic;-4,12190250629;Low
+c__ c_trumpvalu;-7,54644627375;Lowest
+c_long c_blockchain;-3,88288462762;Lowest
+c__ c_trumpvalu c_villag;-7,54644627375;Lowest
+c_korean c_exchang;-3,88288462762;Lowest
+c____ c_britain;-7,54644627375;Lowest
+c_long c_island;-3,90886011402;Lowest
+c____ c_britain c_health;-7,54644627375;Lowest
+c_long c_island c_ice;-3,96292733529;Lowest
+c____ c_even;-7,54644627375;Lowest
+c_island c_ice c_tea;-3,96292733529;Lowest
+c____ c_even c_talk;-7,54644627375;Lowest
+c_island c_ice;-3,96292733529;Lowest
+c____ c_expert;-7,54644627375;Lowest
+c_ice c_tea;-3,96292733529;Lowest
+c____ c_expert c_global;-7,54644627375;Lowest
+c_south c_korean c_exchang;-3,99109821226;Lowest
+c____ c_franc;-7,54644627375;Lowest
+c_wan c_na;-4,02008574913;Lowest
+c____ c_franc c_auto;-7,54644627375;Lowest
+c_u c_treasuri c_yield;-4,02008574913;Lowest
+c____ c_german;-7,54644627375;Lowest
+c_second c_time;-4,04993871228;Lowest
+c____ c_german c_busi;-7,54644627375;Lowest
+c_korea c_govern;-4,08071037095;Lowest
+c____ c_global;-7,54644627375;Lowest
+t_cryptocurr t_exchang;-4,11245906926;Lowest
+c____ c_global c_cyber;-7,54644627375;Lowest
+c_track c_site c_coindesk;-4,11245906926;Lowest
+c____ c_indian;-7,54644627375;Lowest
+c_track c_site;-4,11245906926;Lowest

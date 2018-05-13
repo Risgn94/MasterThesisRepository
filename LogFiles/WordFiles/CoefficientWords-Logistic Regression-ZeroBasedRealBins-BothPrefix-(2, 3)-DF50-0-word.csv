@@ -1,0 +1,99 @@
+Word;Coefficient
+c_bitcoin c_ira;-0,3510672795186424
+c_mr c_wright;-0,3294514349587461
+c_marshal c_island;-0,3006560879018681
+c_display c_div;-0,2975458176103607
+c_display c_div c_gpt;-0,2975458176103607
+c_googletag c_display c_div;-0,2975458176103607
+c_darknet c_market;-0,29705789648420294
+c_self c_regul;-0,2867285426235239
+t_bitcoin t_hit;-0,2793694033755707
+c_margin c_trade;-0,2600345140698104
+Word;Coefficient
+c_marshal c_island;-0,3175794771728934
+c_orang c_new;-0,2633629289185525
+c_orang c_new c_black;-0,2633629289185525
+c_forward c_look c_inform;-0,25398881651865163
+c_new c_black;-0,25332897730513176
+c_tim c_seymour;-0,24874735351312383
+c_look c_inform;-0,24742492349896225
+c_exchang c_start;-0,2437554863050855
+c_digit c_bank;-0,2347524720620649
+c_brian c_kelli;-0,2285064383560322
+Word;Coefficient
+c_bitcoin c_ira;-0,4258550738353877
+c_guy c_adami;-0,36113196683244586
+c_mr c_wright;-0,31111396884180914
+c_legend c_room;-0,31079574272491617
+c_evolv c_market;-0,29010193343540597
+c_dark c_net;-0,2839755922077662
+c_darknet c_market;-0,26942197175118476
+c_wright c_claim;-0,26909068508796125
+c_tim c_seymour;-0,2689738908342178
+c_grayscal c_invest c_llc;-0,2562154266932484
+Word;Coefficient
+c_evolv c_market;-0,4331390791258564
+c_prepaid c_card;-0,3355284697619423
+c_mr c_wright;-0,3322634077519513
+c_brian c_kelli;-0,32702985276184543
+c_guy c_adami;-0,3197914352344996
+c_marshal c_island;-0,2796465347740239
+c_state c_street;-0,27936438108438816
+c_bitcoin c_ira;-0,27643914429222705
+c_wright c_claim;-0,2661822814575621
+c_secret c_servic;-0,2353248425153047
+Word;Coefficient
+c_bitcoin c_ira;-0,49673229655094275
+c_prepaid c_card;-0,33246373697257925
+c_darknet c_market;-0,28705549172468814
+c_self c_regul;-0,27443860261885955
+c_guy c_adami;-0,2663217691846464
+c_cloud c_servic;-0,2537627698358087
+c_avalon c_life;-0,24873642802529014
+c_put c_spread;-0,23532181121300866
+c_bomb c_threat;-0,23513394926779893
+c_marshal c_island;-0,2318833524772691
+Word;Coefficient
+c_forward c_look c_inform;-0,3472383852019985
+c_mr c_wright;-0,34022945735727345
+c_look c_inform;-0,3061780893807917
+c_brian c_kelli;-0,2925992296610589
+c_dark c_net;-0,28186746491710185
+c_marshal c_island;-0,2576705795402861
+c_islam c_state;-0,25042857312170647
+c_black c_death;-0,24975809420444844
+c_guy c_adami;-0,2467379223779479
+c_electron c_currenc;-0,24139915399171824
+Word;Coefficient
+c_prepaid c_card;-0,3337654473728831
+c_coin c_mx;-0,32253462017399215
+c_mr c_wright;-0,298043838772471
+c_guy c_adami;-0,2935279779933269
+c_legend c_room;-0,2783948267796116
+c_put c_spread;-0,2609581897483657
+c_avalon c_life;-0,25571368532262656
+c_darknet c_market;-0,25313567793697656
+c_trade c_financ;-0,25100525599754075
+c_state c_street;-0,23755994744896086
+Word;Coefficient
+c_guy c_adami;-0,3481021398914884
+c_bitcoin c_ira;-0,31685607079546046
+c_locki c_ransomwar;-0,27384945552525236
+c_brian c_kelli;-0,27045417033276
+c_articl c_thumbnail;-0,2700221077810267
+t_bitcoin t_hit;-0,26521761470098876
+c_school c_district;-0,25510090165370586
+c_new c_black;-0,25317874548532243
+c_orang c_new;-0,24760410373190353
+c_orang c_new c_black;-0,24760410373190353
+Word;Coefficient
+c_bitcoin c_ira;-0,4154394718376625
+c_evolv c_market;-0,38497750033854755
+c_marshal c_island;-0,30197035786162
+c_darknet c_market;-0,30011650715298527
+c_dark c_net;-0,2966049655240983
+c_prepaid c_card;-0,28519269245469675
+c_look c_inform;-0,2780636068785343
+c_e c_doc;-0,2728624373594883
+c_forward c_look c_inform;-0,2697286660367706
+c_p c_p;-0,2610595511771509
